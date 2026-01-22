@@ -1,0 +1,6 @@
+qdrant-client
+langchain
+sentence-transformers
+pandas
+chonkie
+python-dotenv
