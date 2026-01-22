@@ -18,5 +18,4 @@ chmod +x setup.sh
 cp .env.example .env
 #### check setup 
 python -c "from backend.config.settings import QDRANT_URL; print(QDRANT_URL)"
-#### install requirements
-pip install -r requirements.txt
+
