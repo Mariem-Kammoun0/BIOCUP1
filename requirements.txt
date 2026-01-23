@@ -4,3 +4,4 @@ sentence-transformers
 pandas
 chonkie
 python-dotenv
+jupyterlab
