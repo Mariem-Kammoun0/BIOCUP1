@@ -25,8 +25,8 @@ from text_cleaner import clean_medical_report
 # =========================
 # CONFIG
 # =========================
-INPUT_CSV = "../../../data/raw/biocup_subset.csv"
-OUTPUT_CSV = "../../../data/chunking/biocup_chunks.csv"
+INPUT_CSV = "../data/raw/biocup_subset.csv"
+OUTPUT_CSV = "../data/processed/biocup_chunks.csv"
 OUTPUT_STATS_JSON = "biocup_chunks_stats.json"
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"

@@ -1,0 +1,25 @@
+{
+  "cases_total": 420,
+  "cases_chunked": 420,
+  "sections_total": 734,
+  "chunks_total_raw": 5640,
+  "chunks_total_after_postsplit": 5104,
+  "chunks_dropped_quality": 2982,
+  "chunks_dropped_duplicate_exact": 10,
+  "chunks_dropped_duplicate_near": 20,
+  "chunks_by_section": {
+    "LYMPH_NODES": 407,
+    "DIAGNOSIS": 1791,
+    "MARGINS": 479,
+    "SYNOPTIC": 464,
+    "IHC": 105,
+    "MICRO": 369,
+    "GROSS": 891,
+    "ADMIN": 15,
+    "SPECIMEN": 512,
+    "GENERAL": 59,
+    "CLINICAL_HISTORY": 10,
+    "COMMENT": 2
+  },
+  "errors_semantic_chunking": 0
+}
