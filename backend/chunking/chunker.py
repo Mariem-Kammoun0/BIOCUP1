@@ -20,12 +20,13 @@ from typing import Dict, List, Any, Tuple
 
 from chonkie import SemanticChunker
 from chonkie.embeddings.sentence_transformer import SentenceTransformerEmbeddings
+from text_cleaner import clean_medical_report 
 
 # =========================
 # CONFIG
 # =========================
-INPUT_CSV = "../../data/raw/biocup_subset.csv"
-OUTPUT_CSV = "../../data/chunking/biocup_chunks.csv"
+INPUT_CSV = "../../../data/raw/biocup_subset.csv"
+OUTPUT_CSV = "../../../data/chunking/biocup_chunks.csv"
 OUTPUT_STATS_JSON = "biocup_chunks_stats.json"
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -769,6 +770,10 @@ def merge_continuations(chunks: List[str], max_chars: int, max_steps: int = 8) -
 def run_pipeline() -> None:
     print("📥 Loading CSV...")
     df = pd.read_csv(INPUT_CSV)
+    
+    #adding data cleaning
+    # Appliquer la fonction à toute la colonne 'report_text'
+    df["report_text"] = df["report_text"].apply(clean_medical_report)
 
     missing = [c for c in REQUIRED_COLS if c not in df.columns]
     if missing:
