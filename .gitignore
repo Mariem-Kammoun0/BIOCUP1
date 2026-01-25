@@ -34,4 +34,8 @@ Thumbs.db
 # ===============================
 *.log
 *.tmp
-*.bak
+*.baknotebooks/qdrant_local_db/
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
