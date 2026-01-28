@@ -1,0 +1,5812 @@
+[
+    {
+        "cancer_type": "breast",
+        "image_name": "S_12.jpg",
+        "file_path": "data/images\\breast\\S_12.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_34.jpg",
+        "file_path": "data/images\\breast\\S_34.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_35.jpg",
+        "file_path": "data/images\\breast\\S_35.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_36.jpg",
+        "file_path": "data/images\\breast\\S_36.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_37.jpg",
+        "file_path": "data/images\\breast\\S_37.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_38.jpg",
+        "file_path": "data/images\\breast\\S_38.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_39.jpg",
+        "file_path": "data/images\\breast\\S_39.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_40.jpg",
+        "file_path": "data/images\\breast\\S_40.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_41.jpg",
+        "file_path": "data/images\\breast\\S_41.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_42.jpg",
+        "file_path": "data/images\\breast\\S_42.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_43.jpg",
+        "file_path": "data/images\\breast\\S_43.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_44.jpg",
+        "file_path": "data/images\\breast\\S_44.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_45.jpg",
+        "file_path": "data/images\\breast\\S_45.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_46.jpg",
+        "file_path": "data/images\\breast\\S_46.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_47.jpg",
+        "file_path": "data/images\\breast\\S_47.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_48.jpg",
+        "file_path": "data/images\\breast\\S_48.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_49.jpg",
+        "file_path": "data/images\\breast\\S_49.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_50.jpg",
+        "file_path": "data/images\\breast\\S_50.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_51.jpg",
+        "file_path": "data/images\\breast\\S_51.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_52.jpg",
+        "file_path": "data/images\\breast\\S_52.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_53.jpg",
+        "file_path": "data/images\\breast\\S_53.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_54.jpg",
+        "file_path": "data/images\\breast\\S_54.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_55.jpg",
+        "file_path": "data/images\\breast\\S_55.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_56.jpg",
+        "file_path": "data/images\\breast\\S_56.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_57.jpg",
+        "file_path": "data/images\\breast\\S_57.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_60.jpg",
+        "file_path": "data/images\\breast\\S_60.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_61.jpg",
+        "file_path": "data/images\\breast\\S_61.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_63.jpg",
+        "file_path": "data/images\\breast\\S_63.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_64.jpg",
+        "file_path": "data/images\\breast\\S_64.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_65.jpg",
+        "file_path": "data/images\\breast\\S_65.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_66.jpg",
+        "file_path": "data/images\\breast\\S_66.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_67.jpg",
+        "file_path": "data/images\\breast\\S_67.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_68.jpg",
+        "file_path": "data/images\\breast\\S_68.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_69.jpg",
+        "file_path": "data/images\\breast\\S_69.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_70.jpg",
+        "file_path": "data/images\\breast\\S_70.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_71.jpg",
+        "file_path": "data/images\\breast\\S_71.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_72.jpg",
+        "file_path": "data/images\\breast\\S_72.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_73.jpg",
+        "file_path": "data/images\\breast\\S_73.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_74.jpg",
+        "file_path": "data/images\\breast\\S_74.jpg"
+    },
+    {
+        "cancer_type": "breast",
+        "image_name": "S_75.jpg",
+        "file_path": "data/images\\breast\\S_75.jpg"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1).png",
+        "file_path": "data/images\\lung\\Lung MRI (1).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (10).png",
+        "file_path": "data/images\\lung\\Lung MRI (10).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (100).png",
+        "file_path": "data/images\\lung\\Lung MRI (100).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1000).png",
+        "file_path": "data/images\\lung\\Lung MRI (1000).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1001).png",
+        "file_path": "data/images\\lung\\Lung MRI (1001).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1002).png",
+        "file_path": "data/images\\lung\\Lung MRI (1002).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1003).png",
+        "file_path": "data/images\\lung\\Lung MRI (1003).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1004).png",
+        "file_path": "data/images\\lung\\Lung MRI (1004).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1005).png",
+        "file_path": "data/images\\lung\\Lung MRI (1005).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1006).png",
+        "file_path": "data/images\\lung\\Lung MRI (1006).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1007).png",
+        "file_path": "data/images\\lung\\Lung MRI (1007).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1008).png",
+        "file_path": "data/images\\lung\\Lung MRI (1008).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1009).png",
+        "file_path": "data/images\\lung\\Lung MRI (1009).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (101).png",
+        "file_path": "data/images\\lung\\Lung MRI (101).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1010).png",
+        "file_path": "data/images\\lung\\Lung MRI (1010).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1011).png",
+        "file_path": "data/images\\lung\\Lung MRI (1011).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1012).png",
+        "file_path": "data/images\\lung\\Lung MRI (1012).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1013).png",
+        "file_path": "data/images\\lung\\Lung MRI (1013).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1014).png",
+        "file_path": "data/images\\lung\\Lung MRI (1014).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1015).png",
+        "file_path": "data/images\\lung\\Lung MRI (1015).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1016).png",
+        "file_path": "data/images\\lung\\Lung MRI (1016).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1017).png",
+        "file_path": "data/images\\lung\\Lung MRI (1017).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1018).png",
+        "file_path": "data/images\\lung\\Lung MRI (1018).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1019).png",
+        "file_path": "data/images\\lung\\Lung MRI (1019).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (102).png",
+        "file_path": "data/images\\lung\\Lung MRI (102).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1020).png",
+        "file_path": "data/images\\lung\\Lung MRI (1020).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1021).png",
+        "file_path": "data/images\\lung\\Lung MRI (1021).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1022).png",
+        "file_path": "data/images\\lung\\Lung MRI (1022).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1023).png",
+        "file_path": "data/images\\lung\\Lung MRI (1023).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1024).png",
+        "file_path": "data/images\\lung\\Lung MRI (1024).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1025).png",
+        "file_path": "data/images\\lung\\Lung MRI (1025).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1026).png",
+        "file_path": "data/images\\lung\\Lung MRI (1026).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1027).png",
+        "file_path": "data/images\\lung\\Lung MRI (1027).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1028).png",
+        "file_path": "data/images\\lung\\Lung MRI (1028).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1029).png",
+        "file_path": "data/images\\lung\\Lung MRI (1029).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (103).png",
+        "file_path": "data/images\\lung\\Lung MRI (103).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1030).png",
+        "file_path": "data/images\\lung\\Lung MRI (1030).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1031).png",
+        "file_path": "data/images\\lung\\Lung MRI (1031).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1032).png",
+        "file_path": "data/images\\lung\\Lung MRI (1032).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1033).png",
+        "file_path": "data/images\\lung\\Lung MRI (1033).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1034).png",
+        "file_path": "data/images\\lung\\Lung MRI (1034).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1035).png",
+        "file_path": "data/images\\lung\\Lung MRI (1035).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1036).png",
+        "file_path": "data/images\\lung\\Lung MRI (1036).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1037).png",
+        "file_path": "data/images\\lung\\Lung MRI (1037).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1038).png",
+        "file_path": "data/images\\lung\\Lung MRI (1038).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1039).png",
+        "file_path": "data/images\\lung\\Lung MRI (1039).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (104).png",
+        "file_path": "data/images\\lung\\Lung MRI (104).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1040).png",
+        "file_path": "data/images\\lung\\Lung MRI (1040).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1041).png",
+        "file_path": "data/images\\lung\\Lung MRI (1041).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1042).png",
+        "file_path": "data/images\\lung\\Lung MRI (1042).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1043).png",
+        "file_path": "data/images\\lung\\Lung MRI (1043).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1044).png",
+        "file_path": "data/images\\lung\\Lung MRI (1044).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1045).png",
+        "file_path": "data/images\\lung\\Lung MRI (1045).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1046).png",
+        "file_path": "data/images\\lung\\Lung MRI (1046).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1047).png",
+        "file_path": "data/images\\lung\\Lung MRI (1047).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1048).png",
+        "file_path": "data/images\\lung\\Lung MRI (1048).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1049).png",
+        "file_path": "data/images\\lung\\Lung MRI (1049).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (105).png",
+        "file_path": "data/images\\lung\\Lung MRI (105).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1050).png",
+        "file_path": "data/images\\lung\\Lung MRI (1050).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1051).png",
+        "file_path": "data/images\\lung\\Lung MRI (1051).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1052).png",
+        "file_path": "data/images\\lung\\Lung MRI (1052).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1053).png",
+        "file_path": "data/images\\lung\\Lung MRI (1053).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1054).png",
+        "file_path": "data/images\\lung\\Lung MRI (1054).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1055).png",
+        "file_path": "data/images\\lung\\Lung MRI (1055).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1056).png",
+        "file_path": "data/images\\lung\\Lung MRI (1056).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1057).png",
+        "file_path": "data/images\\lung\\Lung MRI (1057).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1058).png",
+        "file_path": "data/images\\lung\\Lung MRI (1058).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1059).png",
+        "file_path": "data/images\\lung\\Lung MRI (1059).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (106).png",
+        "file_path": "data/images\\lung\\Lung MRI (106).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1060).png",
+        "file_path": "data/images\\lung\\Lung MRI (1060).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1061).png",
+        "file_path": "data/images\\lung\\Lung MRI (1061).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1062).png",
+        "file_path": "data/images\\lung\\Lung MRI (1062).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1063).png",
+        "file_path": "data/images\\lung\\Lung MRI (1063).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1064).png",
+        "file_path": "data/images\\lung\\Lung MRI (1064).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1065).png",
+        "file_path": "data/images\\lung\\Lung MRI (1065).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1066).png",
+        "file_path": "data/images\\lung\\Lung MRI (1066).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1067).png",
+        "file_path": "data/images\\lung\\Lung MRI (1067).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1068).png",
+        "file_path": "data/images\\lung\\Lung MRI (1068).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1069).png",
+        "file_path": "data/images\\lung\\Lung MRI (1069).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (107).png",
+        "file_path": "data/images\\lung\\Lung MRI (107).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1070).png",
+        "file_path": "data/images\\lung\\Lung MRI (1070).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1071).png",
+        "file_path": "data/images\\lung\\Lung MRI (1071).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1072).png",
+        "file_path": "data/images\\lung\\Lung MRI (1072).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1073).png",
+        "file_path": "data/images\\lung\\Lung MRI (1073).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1074).png",
+        "file_path": "data/images\\lung\\Lung MRI (1074).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1075).png",
+        "file_path": "data/images\\lung\\Lung MRI (1075).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1076).png",
+        "file_path": "data/images\\lung\\Lung MRI (1076).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1077).png",
+        "file_path": "data/images\\lung\\Lung MRI (1077).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1078).png",
+        "file_path": "data/images\\lung\\Lung MRI (1078).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1079).png",
+        "file_path": "data/images\\lung\\Lung MRI (1079).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (108).png",
+        "file_path": "data/images\\lung\\Lung MRI (108).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1080).png",
+        "file_path": "data/images\\lung\\Lung MRI (1080).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1081).png",
+        "file_path": "data/images\\lung\\Lung MRI (1081).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1082).png",
+        "file_path": "data/images\\lung\\Lung MRI (1082).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1083).png",
+        "file_path": "data/images\\lung\\Lung MRI (1083).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1084).png",
+        "file_path": "data/images\\lung\\Lung MRI (1084).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1085).png",
+        "file_path": "data/images\\lung\\Lung MRI (1085).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1086).png",
+        "file_path": "data/images\\lung\\Lung MRI (1086).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1087).png",
+        "file_path": "data/images\\lung\\Lung MRI (1087).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1088).png",
+        "file_path": "data/images\\lung\\Lung MRI (1088).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1089).png",
+        "file_path": "data/images\\lung\\Lung MRI (1089).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (109).png",
+        "file_path": "data/images\\lung\\Lung MRI (109).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1090).png",
+        "file_path": "data/images\\lung\\Lung MRI (1090).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1091).png",
+        "file_path": "data/images\\lung\\Lung MRI (1091).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1092).png",
+        "file_path": "data/images\\lung\\Lung MRI (1092).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1093).png",
+        "file_path": "data/images\\lung\\Lung MRI (1093).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1094).png",
+        "file_path": "data/images\\lung\\Lung MRI (1094).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1095).png",
+        "file_path": "data/images\\lung\\Lung MRI (1095).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1096).png",
+        "file_path": "data/images\\lung\\Lung MRI (1096).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1097).png",
+        "file_path": "data/images\\lung\\Lung MRI (1097).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1098).png",
+        "file_path": "data/images\\lung\\Lung MRI (1098).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1099).png",
+        "file_path": "data/images\\lung\\Lung MRI (1099).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (11).png",
+        "file_path": "data/images\\lung\\Lung MRI (11).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (110).png",
+        "file_path": "data/images\\lung\\Lung MRI (110).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1100).png",
+        "file_path": "data/images\\lung\\Lung MRI (1100).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1101).png",
+        "file_path": "data/images\\lung\\Lung MRI (1101).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1102).png",
+        "file_path": "data/images\\lung\\Lung MRI (1102).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1103).png",
+        "file_path": "data/images\\lung\\Lung MRI (1103).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1104).png",
+        "file_path": "data/images\\lung\\Lung MRI (1104).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1105).png",
+        "file_path": "data/images\\lung\\Lung MRI (1105).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1106).png",
+        "file_path": "data/images\\lung\\Lung MRI (1106).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1107).png",
+        "file_path": "data/images\\lung\\Lung MRI (1107).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1108).png",
+        "file_path": "data/images\\lung\\Lung MRI (1108).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1109).png",
+        "file_path": "data/images\\lung\\Lung MRI (1109).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (111).png",
+        "file_path": "data/images\\lung\\Lung MRI (111).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1110).png",
+        "file_path": "data/images\\lung\\Lung MRI (1110).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1111).png",
+        "file_path": "data/images\\lung\\Lung MRI (1111).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1112).png",
+        "file_path": "data/images\\lung\\Lung MRI (1112).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1113).png",
+        "file_path": "data/images\\lung\\Lung MRI (1113).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1114).png",
+        "file_path": "data/images\\lung\\Lung MRI (1114).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1115).png",
+        "file_path": "data/images\\lung\\Lung MRI (1115).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1116).png",
+        "file_path": "data/images\\lung\\Lung MRI (1116).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1117).png",
+        "file_path": "data/images\\lung\\Lung MRI (1117).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1118).png",
+        "file_path": "data/images\\lung\\Lung MRI (1118).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1119).png",
+        "file_path": "data/images\\lung\\Lung MRI (1119).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (112).png",
+        "file_path": "data/images\\lung\\Lung MRI (112).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1120).png",
+        "file_path": "data/images\\lung\\Lung MRI (1120).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1121).png",
+        "file_path": "data/images\\lung\\Lung MRI (1121).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (1122).png",
+        "file_path": "data/images\\lung\\Lung MRI (1122).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (113).png",
+        "file_path": "data/images\\lung\\Lung MRI (113).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (114).png",
+        "file_path": "data/images\\lung\\Lung MRI (114).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (115).png",
+        "file_path": "data/images\\lung\\Lung MRI (115).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (116).png",
+        "file_path": "data/images\\lung\\Lung MRI (116).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (117).png",
+        "file_path": "data/images\\lung\\Lung MRI (117).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (118).png",
+        "file_path": "data/images\\lung\\Lung MRI (118).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (119).png",
+        "file_path": "data/images\\lung\\Lung MRI (119).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (12).png",
+        "file_path": "data/images\\lung\\Lung MRI (12).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (120).png",
+        "file_path": "data/images\\lung\\Lung MRI (120).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (121).png",
+        "file_path": "data/images\\lung\\Lung MRI (121).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (122).png",
+        "file_path": "data/images\\lung\\Lung MRI (122).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (123).png",
+        "file_path": "data/images\\lung\\Lung MRI (123).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (124).png",
+        "file_path": "data/images\\lung\\Lung MRI (124).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (125).png",
+        "file_path": "data/images\\lung\\Lung MRI (125).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (126).png",
+        "file_path": "data/images\\lung\\Lung MRI (126).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (127).png",
+        "file_path": "data/images\\lung\\Lung MRI (127).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (128).png",
+        "file_path": "data/images\\lung\\Lung MRI (128).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (129).png",
+        "file_path": "data/images\\lung\\Lung MRI (129).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (13).png",
+        "file_path": "data/images\\lung\\Lung MRI (13).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (130).png",
+        "file_path": "data/images\\lung\\Lung MRI (130).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (131).png",
+        "file_path": "data/images\\lung\\Lung MRI (131).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (132).png",
+        "file_path": "data/images\\lung\\Lung MRI (132).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (133).png",
+        "file_path": "data/images\\lung\\Lung MRI (133).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (134).png",
+        "file_path": "data/images\\lung\\Lung MRI (134).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (135).png",
+        "file_path": "data/images\\lung\\Lung MRI (135).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (136).png",
+        "file_path": "data/images\\lung\\Lung MRI (136).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (137).png",
+        "file_path": "data/images\\lung\\Lung MRI (137).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (138).png",
+        "file_path": "data/images\\lung\\Lung MRI (138).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (139).png",
+        "file_path": "data/images\\lung\\Lung MRI (139).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (14).png",
+        "file_path": "data/images\\lung\\Lung MRI (14).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (140).png",
+        "file_path": "data/images\\lung\\Lung MRI (140).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (141).png",
+        "file_path": "data/images\\lung\\Lung MRI (141).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (142).png",
+        "file_path": "data/images\\lung\\Lung MRI (142).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (143).png",
+        "file_path": "data/images\\lung\\Lung MRI (143).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (144).png",
+        "file_path": "data/images\\lung\\Lung MRI (144).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (145).png",
+        "file_path": "data/images\\lung\\Lung MRI (145).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (146).png",
+        "file_path": "data/images\\lung\\Lung MRI (146).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (147).png",
+        "file_path": "data/images\\lung\\Lung MRI (147).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (148).png",
+        "file_path": "data/images\\lung\\Lung MRI (148).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (149).png",
+        "file_path": "data/images\\lung\\Lung MRI (149).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (15).png",
+        "file_path": "data/images\\lung\\Lung MRI (15).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (150).png",
+        "file_path": "data/images\\lung\\Lung MRI (150).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (151).png",
+        "file_path": "data/images\\lung\\Lung MRI (151).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (152).png",
+        "file_path": "data/images\\lung\\Lung MRI (152).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (153).png",
+        "file_path": "data/images\\lung\\Lung MRI (153).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (154).png",
+        "file_path": "data/images\\lung\\Lung MRI (154).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (155).png",
+        "file_path": "data/images\\lung\\Lung MRI (155).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (156).png",
+        "file_path": "data/images\\lung\\Lung MRI (156).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (157).png",
+        "file_path": "data/images\\lung\\Lung MRI (157).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (158).png",
+        "file_path": "data/images\\lung\\Lung MRI (158).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (159).png",
+        "file_path": "data/images\\lung\\Lung MRI (159).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (16).png",
+        "file_path": "data/images\\lung\\Lung MRI (16).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (160).png",
+        "file_path": "data/images\\lung\\Lung MRI (160).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (161).png",
+        "file_path": "data/images\\lung\\Lung MRI (161).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (162).png",
+        "file_path": "data/images\\lung\\Lung MRI (162).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (163).png",
+        "file_path": "data/images\\lung\\Lung MRI (163).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (164).png",
+        "file_path": "data/images\\lung\\Lung MRI (164).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (165).png",
+        "file_path": "data/images\\lung\\Lung MRI (165).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (166).png",
+        "file_path": "data/images\\lung\\Lung MRI (166).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (167).png",
+        "file_path": "data/images\\lung\\Lung MRI (167).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (168).png",
+        "file_path": "data/images\\lung\\Lung MRI (168).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (169).png",
+        "file_path": "data/images\\lung\\Lung MRI (169).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (17).png",
+        "file_path": "data/images\\lung\\Lung MRI (17).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (170).png",
+        "file_path": "data/images\\lung\\Lung MRI (170).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (171).png",
+        "file_path": "data/images\\lung\\Lung MRI (171).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (172).png",
+        "file_path": "data/images\\lung\\Lung MRI (172).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (173).png",
+        "file_path": "data/images\\lung\\Lung MRI (173).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (174).png",
+        "file_path": "data/images\\lung\\Lung MRI (174).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (175).png",
+        "file_path": "data/images\\lung\\Lung MRI (175).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (176).png",
+        "file_path": "data/images\\lung\\Lung MRI (176).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (177).png",
+        "file_path": "data/images\\lung\\Lung MRI (177).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (178).png",
+        "file_path": "data/images\\lung\\Lung MRI (178).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (179).png",
+        "file_path": "data/images\\lung\\Lung MRI (179).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (18).png",
+        "file_path": "data/images\\lung\\Lung MRI (18).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (180).png",
+        "file_path": "data/images\\lung\\Lung MRI (180).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (181).png",
+        "file_path": "data/images\\lung\\Lung MRI (181).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (182).png",
+        "file_path": "data/images\\lung\\Lung MRI (182).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (183).png",
+        "file_path": "data/images\\lung\\Lung MRI (183).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (184).png",
+        "file_path": "data/images\\lung\\Lung MRI (184).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (185).png",
+        "file_path": "data/images\\lung\\Lung MRI (185).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (186).png",
+        "file_path": "data/images\\lung\\Lung MRI (186).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (187).png",
+        "file_path": "data/images\\lung\\Lung MRI (187).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (188).png",
+        "file_path": "data/images\\lung\\Lung MRI (188).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (189).png",
+        "file_path": "data/images\\lung\\Lung MRI (189).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (19).png",
+        "file_path": "data/images\\lung\\Lung MRI (19).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (190).png",
+        "file_path": "data/images\\lung\\Lung MRI (190).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (191).png",
+        "file_path": "data/images\\lung\\Lung MRI (191).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (192).png",
+        "file_path": "data/images\\lung\\Lung MRI (192).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (193).png",
+        "file_path": "data/images\\lung\\Lung MRI (193).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (194).png",
+        "file_path": "data/images\\lung\\Lung MRI (194).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (195).png",
+        "file_path": "data/images\\lung\\Lung MRI (195).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (196).png",
+        "file_path": "data/images\\lung\\Lung MRI (196).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (197).png",
+        "file_path": "data/images\\lung\\Lung MRI (197).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (198).png",
+        "file_path": "data/images\\lung\\Lung MRI (198).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (199).png",
+        "file_path": "data/images\\lung\\Lung MRI (199).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (2).png",
+        "file_path": "data/images\\lung\\Lung MRI (2).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (20).png",
+        "file_path": "data/images\\lung\\Lung MRI (20).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (200).png",
+        "file_path": "data/images\\lung\\Lung MRI (200).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (201).png",
+        "file_path": "data/images\\lung\\Lung MRI (201).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (202).png",
+        "file_path": "data/images\\lung\\Lung MRI (202).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (203).png",
+        "file_path": "data/images\\lung\\Lung MRI (203).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (204).png",
+        "file_path": "data/images\\lung\\Lung MRI (204).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (205).png",
+        "file_path": "data/images\\lung\\Lung MRI (205).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (206).png",
+        "file_path": "data/images\\lung\\Lung MRI (206).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (207).png",
+        "file_path": "data/images\\lung\\Lung MRI (207).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (208).png",
+        "file_path": "data/images\\lung\\Lung MRI (208).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (209).png",
+        "file_path": "data/images\\lung\\Lung MRI (209).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (21).png",
+        "file_path": "data/images\\lung\\Lung MRI (21).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (210).png",
+        "file_path": "data/images\\lung\\Lung MRI (210).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (211).png",
+        "file_path": "data/images\\lung\\Lung MRI (211).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (212).png",
+        "file_path": "data/images\\lung\\Lung MRI (212).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (213).png",
+        "file_path": "data/images\\lung\\Lung MRI (213).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (214).png",
+        "file_path": "data/images\\lung\\Lung MRI (214).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (215).png",
+        "file_path": "data/images\\lung\\Lung MRI (215).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (216).png",
+        "file_path": "data/images\\lung\\Lung MRI (216).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (217).png",
+        "file_path": "data/images\\lung\\Lung MRI (217).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (218).png",
+        "file_path": "data/images\\lung\\Lung MRI (218).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (219).png",
+        "file_path": "data/images\\lung\\Lung MRI (219).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (22).png",
+        "file_path": "data/images\\lung\\Lung MRI (22).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (220).png",
+        "file_path": "data/images\\lung\\Lung MRI (220).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (221).png",
+        "file_path": "data/images\\lung\\Lung MRI (221).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (222).png",
+        "file_path": "data/images\\lung\\Lung MRI (222).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (223).png",
+        "file_path": "data/images\\lung\\Lung MRI (223).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (224).png",
+        "file_path": "data/images\\lung\\Lung MRI (224).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (225).png",
+        "file_path": "data/images\\lung\\Lung MRI (225).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (226).png",
+        "file_path": "data/images\\lung\\Lung MRI (226).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (227).png",
+        "file_path": "data/images\\lung\\Lung MRI (227).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (228).png",
+        "file_path": "data/images\\lung\\Lung MRI (228).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (229).png",
+        "file_path": "data/images\\lung\\Lung MRI (229).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (23).png",
+        "file_path": "data/images\\lung\\Lung MRI (23).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (230).png",
+        "file_path": "data/images\\lung\\Lung MRI (230).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (231).png",
+        "file_path": "data/images\\lung\\Lung MRI (231).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (232).png",
+        "file_path": "data/images\\lung\\Lung MRI (232).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (233).png",
+        "file_path": "data/images\\lung\\Lung MRI (233).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (234).png",
+        "file_path": "data/images\\lung\\Lung MRI (234).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (235).png",
+        "file_path": "data/images\\lung\\Lung MRI (235).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (236).png",
+        "file_path": "data/images\\lung\\Lung MRI (236).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (237).png",
+        "file_path": "data/images\\lung\\Lung MRI (237).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (238).png",
+        "file_path": "data/images\\lung\\Lung MRI (238).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (239).png",
+        "file_path": "data/images\\lung\\Lung MRI (239).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (24).png",
+        "file_path": "data/images\\lung\\Lung MRI (24).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (240).png",
+        "file_path": "data/images\\lung\\Lung MRI (240).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (241).png",
+        "file_path": "data/images\\lung\\Lung MRI (241).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (242).png",
+        "file_path": "data/images\\lung\\Lung MRI (242).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (243).png",
+        "file_path": "data/images\\lung\\Lung MRI (243).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (244).png",
+        "file_path": "data/images\\lung\\Lung MRI (244).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (245).png",
+        "file_path": "data/images\\lung\\Lung MRI (245).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (246).png",
+        "file_path": "data/images\\lung\\Lung MRI (246).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (247).png",
+        "file_path": "data/images\\lung\\Lung MRI (247).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (248).png",
+        "file_path": "data/images\\lung\\Lung MRI (248).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (249).png",
+        "file_path": "data/images\\lung\\Lung MRI (249).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (25).png",
+        "file_path": "data/images\\lung\\Lung MRI (25).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (250).png",
+        "file_path": "data/images\\lung\\Lung MRI (250).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (251).png",
+        "file_path": "data/images\\lung\\Lung MRI (251).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (252).png",
+        "file_path": "data/images\\lung\\Lung MRI (252).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (253).png",
+        "file_path": "data/images\\lung\\Lung MRI (253).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (254).png",
+        "file_path": "data/images\\lung\\Lung MRI (254).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (255).png",
+        "file_path": "data/images\\lung\\Lung MRI (255).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (256).png",
+        "file_path": "data/images\\lung\\Lung MRI (256).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (257).png",
+        "file_path": "data/images\\lung\\Lung MRI (257).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (258).png",
+        "file_path": "data/images\\lung\\Lung MRI (258).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (259).png",
+        "file_path": "data/images\\lung\\Lung MRI (259).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (26).png",
+        "file_path": "data/images\\lung\\Lung MRI (26).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (260).png",
+        "file_path": "data/images\\lung\\Lung MRI (260).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (261).png",
+        "file_path": "data/images\\lung\\Lung MRI (261).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (262).png",
+        "file_path": "data/images\\lung\\Lung MRI (262).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (263).png",
+        "file_path": "data/images\\lung\\Lung MRI (263).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (264).png",
+        "file_path": "data/images\\lung\\Lung MRI (264).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (265).png",
+        "file_path": "data/images\\lung\\Lung MRI (265).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (266).png",
+        "file_path": "data/images\\lung\\Lung MRI (266).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (267).png",
+        "file_path": "data/images\\lung\\Lung MRI (267).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (268).png",
+        "file_path": "data/images\\lung\\Lung MRI (268).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (269).png",
+        "file_path": "data/images\\lung\\Lung MRI (269).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (27).png",
+        "file_path": "data/images\\lung\\Lung MRI (27).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (270).png",
+        "file_path": "data/images\\lung\\Lung MRI (270).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (271).png",
+        "file_path": "data/images\\lung\\Lung MRI (271).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (272).png",
+        "file_path": "data/images\\lung\\Lung MRI (272).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (273).png",
+        "file_path": "data/images\\lung\\Lung MRI (273).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (274).png",
+        "file_path": "data/images\\lung\\Lung MRI (274).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (275).png",
+        "file_path": "data/images\\lung\\Lung MRI (275).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (276).png",
+        "file_path": "data/images\\lung\\Lung MRI (276).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (277).png",
+        "file_path": "data/images\\lung\\Lung MRI (277).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (278).png",
+        "file_path": "data/images\\lung\\Lung MRI (278).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (279).png",
+        "file_path": "data/images\\lung\\Lung MRI (279).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (28).png",
+        "file_path": "data/images\\lung\\Lung MRI (28).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (280).png",
+        "file_path": "data/images\\lung\\Lung MRI (280).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (281).png",
+        "file_path": "data/images\\lung\\Lung MRI (281).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (282).png",
+        "file_path": "data/images\\lung\\Lung MRI (282).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (283).png",
+        "file_path": "data/images\\lung\\Lung MRI (283).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (284).png",
+        "file_path": "data/images\\lung\\Lung MRI (284).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (285).png",
+        "file_path": "data/images\\lung\\Lung MRI (285).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (286).png",
+        "file_path": "data/images\\lung\\Lung MRI (286).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (287).png",
+        "file_path": "data/images\\lung\\Lung MRI (287).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (288).png",
+        "file_path": "data/images\\lung\\Lung MRI (288).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (289).png",
+        "file_path": "data/images\\lung\\Lung MRI (289).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (29).png",
+        "file_path": "data/images\\lung\\Lung MRI (29).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (290).png",
+        "file_path": "data/images\\lung\\Lung MRI (290).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (291).png",
+        "file_path": "data/images\\lung\\Lung MRI (291).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (292).png",
+        "file_path": "data/images\\lung\\Lung MRI (292).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (293).png",
+        "file_path": "data/images\\lung\\Lung MRI (293).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (294).png",
+        "file_path": "data/images\\lung\\Lung MRI (294).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (295).png",
+        "file_path": "data/images\\lung\\Lung MRI (295).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (296).png",
+        "file_path": "data/images\\lung\\Lung MRI (296).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (297).png",
+        "file_path": "data/images\\lung\\Lung MRI (297).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (298).png",
+        "file_path": "data/images\\lung\\Lung MRI (298).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (299).png",
+        "file_path": "data/images\\lung\\Lung MRI (299).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (3).png",
+        "file_path": "data/images\\lung\\Lung MRI (3).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (30).png",
+        "file_path": "data/images\\lung\\Lung MRI (30).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (300).png",
+        "file_path": "data/images\\lung\\Lung MRI (300).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (301).png",
+        "file_path": "data/images\\lung\\Lung MRI (301).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (302).png",
+        "file_path": "data/images\\lung\\Lung MRI (302).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (303).png",
+        "file_path": "data/images\\lung\\Lung MRI (303).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (304).png",
+        "file_path": "data/images\\lung\\Lung MRI (304).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (305).png",
+        "file_path": "data/images\\lung\\Lung MRI (305).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (306).png",
+        "file_path": "data/images\\lung\\Lung MRI (306).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (307).png",
+        "file_path": "data/images\\lung\\Lung MRI (307).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (308).png",
+        "file_path": "data/images\\lung\\Lung MRI (308).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (309).png",
+        "file_path": "data/images\\lung\\Lung MRI (309).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (31).png",
+        "file_path": "data/images\\lung\\Lung MRI (31).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (310).png",
+        "file_path": "data/images\\lung\\Lung MRI (310).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (311).png",
+        "file_path": "data/images\\lung\\Lung MRI (311).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (312).png",
+        "file_path": "data/images\\lung\\Lung MRI (312).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (313).png",
+        "file_path": "data/images\\lung\\Lung MRI (313).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (314).png",
+        "file_path": "data/images\\lung\\Lung MRI (314).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (315).png",
+        "file_path": "data/images\\lung\\Lung MRI (315).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (316).png",
+        "file_path": "data/images\\lung\\Lung MRI (316).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (317).png",
+        "file_path": "data/images\\lung\\Lung MRI (317).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (318).png",
+        "file_path": "data/images\\lung\\Lung MRI (318).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (319).png",
+        "file_path": "data/images\\lung\\Lung MRI (319).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (32).png",
+        "file_path": "data/images\\lung\\Lung MRI (32).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (320).png",
+        "file_path": "data/images\\lung\\Lung MRI (320).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (321).png",
+        "file_path": "data/images\\lung\\Lung MRI (321).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (322).png",
+        "file_path": "data/images\\lung\\Lung MRI (322).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (323).png",
+        "file_path": "data/images\\lung\\Lung MRI (323).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (324).png",
+        "file_path": "data/images\\lung\\Lung MRI (324).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (325).png",
+        "file_path": "data/images\\lung\\Lung MRI (325).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (326).png",
+        "file_path": "data/images\\lung\\Lung MRI (326).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (327).png",
+        "file_path": "data/images\\lung\\Lung MRI (327).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (328).png",
+        "file_path": "data/images\\lung\\Lung MRI (328).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (329).png",
+        "file_path": "data/images\\lung\\Lung MRI (329).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (33).png",
+        "file_path": "data/images\\lung\\Lung MRI (33).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (330).png",
+        "file_path": "data/images\\lung\\Lung MRI (330).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (331).png",
+        "file_path": "data/images\\lung\\Lung MRI (331).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (332).png",
+        "file_path": "data/images\\lung\\Lung MRI (332).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (333).png",
+        "file_path": "data/images\\lung\\Lung MRI (333).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (334).png",
+        "file_path": "data/images\\lung\\Lung MRI (334).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (335).png",
+        "file_path": "data/images\\lung\\Lung MRI (335).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (336).png",
+        "file_path": "data/images\\lung\\Lung MRI (336).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (337).png",
+        "file_path": "data/images\\lung\\Lung MRI (337).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (338).png",
+        "file_path": "data/images\\lung\\Lung MRI (338).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (339).png",
+        "file_path": "data/images\\lung\\Lung MRI (339).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (34).png",
+        "file_path": "data/images\\lung\\Lung MRI (34).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (340).png",
+        "file_path": "data/images\\lung\\Lung MRI (340).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (341).png",
+        "file_path": "data/images\\lung\\Lung MRI (341).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (342).png",
+        "file_path": "data/images\\lung\\Lung MRI (342).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (343).png",
+        "file_path": "data/images\\lung\\Lung MRI (343).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (344).png",
+        "file_path": "data/images\\lung\\Lung MRI (344).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (345).png",
+        "file_path": "data/images\\lung\\Lung MRI (345).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (346).png",
+        "file_path": "data/images\\lung\\Lung MRI (346).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (347).png",
+        "file_path": "data/images\\lung\\Lung MRI (347).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (348).png",
+        "file_path": "data/images\\lung\\Lung MRI (348).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (349).png",
+        "file_path": "data/images\\lung\\Lung MRI (349).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (35).png",
+        "file_path": "data/images\\lung\\Lung MRI (35).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (350).png",
+        "file_path": "data/images\\lung\\Lung MRI (350).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (351).png",
+        "file_path": "data/images\\lung\\Lung MRI (351).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (352).png",
+        "file_path": "data/images\\lung\\Lung MRI (352).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (353).png",
+        "file_path": "data/images\\lung\\Lung MRI (353).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (354).png",
+        "file_path": "data/images\\lung\\Lung MRI (354).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (355).png",
+        "file_path": "data/images\\lung\\Lung MRI (355).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (356).png",
+        "file_path": "data/images\\lung\\Lung MRI (356).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (357).png",
+        "file_path": "data/images\\lung\\Lung MRI (357).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (358).png",
+        "file_path": "data/images\\lung\\Lung MRI (358).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (359).png",
+        "file_path": "data/images\\lung\\Lung MRI (359).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (36).png",
+        "file_path": "data/images\\lung\\Lung MRI (36).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (360).png",
+        "file_path": "data/images\\lung\\Lung MRI (360).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (361).png",
+        "file_path": "data/images\\lung\\Lung MRI (361).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (362).png",
+        "file_path": "data/images\\lung\\Lung MRI (362).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (363).png",
+        "file_path": "data/images\\lung\\Lung MRI (363).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (364).png",
+        "file_path": "data/images\\lung\\Lung MRI (364).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (365).png",
+        "file_path": "data/images\\lung\\Lung MRI (365).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (366).png",
+        "file_path": "data/images\\lung\\Lung MRI (366).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (367).png",
+        "file_path": "data/images\\lung\\Lung MRI (367).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (368).png",
+        "file_path": "data/images\\lung\\Lung MRI (368).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (369).png",
+        "file_path": "data/images\\lung\\Lung MRI (369).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (37).png",
+        "file_path": "data/images\\lung\\Lung MRI (37).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (370).png",
+        "file_path": "data/images\\lung\\Lung MRI (370).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (371).png",
+        "file_path": "data/images\\lung\\Lung MRI (371).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (372).png",
+        "file_path": "data/images\\lung\\Lung MRI (372).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (373).png",
+        "file_path": "data/images\\lung\\Lung MRI (373).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (374).png",
+        "file_path": "data/images\\lung\\Lung MRI (374).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (375).png",
+        "file_path": "data/images\\lung\\Lung MRI (375).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (376).png",
+        "file_path": "data/images\\lung\\Lung MRI (376).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (377).png",
+        "file_path": "data/images\\lung\\Lung MRI (377).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (378).png",
+        "file_path": "data/images\\lung\\Lung MRI (378).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (379).png",
+        "file_path": "data/images\\lung\\Lung MRI (379).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (38).png",
+        "file_path": "data/images\\lung\\Lung MRI (38).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (380).png",
+        "file_path": "data/images\\lung\\Lung MRI (380).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (381).png",
+        "file_path": "data/images\\lung\\Lung MRI (381).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (382).png",
+        "file_path": "data/images\\lung\\Lung MRI (382).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (383).png",
+        "file_path": "data/images\\lung\\Lung MRI (383).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (384).png",
+        "file_path": "data/images\\lung\\Lung MRI (384).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (385).png",
+        "file_path": "data/images\\lung\\Lung MRI (385).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (386).png",
+        "file_path": "data/images\\lung\\Lung MRI (386).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (387).png",
+        "file_path": "data/images\\lung\\Lung MRI (387).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (388).png",
+        "file_path": "data/images\\lung\\Lung MRI (388).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (389).png",
+        "file_path": "data/images\\lung\\Lung MRI (389).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (39).png",
+        "file_path": "data/images\\lung\\Lung MRI (39).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (390).png",
+        "file_path": "data/images\\lung\\Lung MRI (390).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (391).png",
+        "file_path": "data/images\\lung\\Lung MRI (391).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (392).png",
+        "file_path": "data/images\\lung\\Lung MRI (392).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (393).png",
+        "file_path": "data/images\\lung\\Lung MRI (393).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (394).png",
+        "file_path": "data/images\\lung\\Lung MRI (394).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (395).png",
+        "file_path": "data/images\\lung\\Lung MRI (395).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (396).png",
+        "file_path": "data/images\\lung\\Lung MRI (396).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (397).png",
+        "file_path": "data/images\\lung\\Lung MRI (397).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (398).png",
+        "file_path": "data/images\\lung\\Lung MRI (398).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (399).png",
+        "file_path": "data/images\\lung\\Lung MRI (399).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (4).png",
+        "file_path": "data/images\\lung\\Lung MRI (4).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (40).png",
+        "file_path": "data/images\\lung\\Lung MRI (40).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (400).png",
+        "file_path": "data/images\\lung\\Lung MRI (400).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (401).png",
+        "file_path": "data/images\\lung\\Lung MRI (401).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (402).png",
+        "file_path": "data/images\\lung\\Lung MRI (402).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (403).png",
+        "file_path": "data/images\\lung\\Lung MRI (403).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (404).png",
+        "file_path": "data/images\\lung\\Lung MRI (404).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (405).png",
+        "file_path": "data/images\\lung\\Lung MRI (405).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (406).png",
+        "file_path": "data/images\\lung\\Lung MRI (406).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (407).png",
+        "file_path": "data/images\\lung\\Lung MRI (407).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (408).png",
+        "file_path": "data/images\\lung\\Lung MRI (408).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (409).png",
+        "file_path": "data/images\\lung\\Lung MRI (409).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (41).png",
+        "file_path": "data/images\\lung\\Lung MRI (41).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (410).png",
+        "file_path": "data/images\\lung\\Lung MRI (410).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (411).png",
+        "file_path": "data/images\\lung\\Lung MRI (411).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (412).png",
+        "file_path": "data/images\\lung\\Lung MRI (412).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (413).png",
+        "file_path": "data/images\\lung\\Lung MRI (413).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (414).png",
+        "file_path": "data/images\\lung\\Lung MRI (414).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (415).png",
+        "file_path": "data/images\\lung\\Lung MRI (415).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (416).png",
+        "file_path": "data/images\\lung\\Lung MRI (416).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (417).png",
+        "file_path": "data/images\\lung\\Lung MRI (417).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (418).png",
+        "file_path": "data/images\\lung\\Lung MRI (418).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (419).png",
+        "file_path": "data/images\\lung\\Lung MRI (419).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (42).png",
+        "file_path": "data/images\\lung\\Lung MRI (42).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (420).png",
+        "file_path": "data/images\\lung\\Lung MRI (420).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (421).png",
+        "file_path": "data/images\\lung\\Lung MRI (421).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (422).png",
+        "file_path": "data/images\\lung\\Lung MRI (422).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (423).png",
+        "file_path": "data/images\\lung\\Lung MRI (423).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (424).png",
+        "file_path": "data/images\\lung\\Lung MRI (424).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (425).png",
+        "file_path": "data/images\\lung\\Lung MRI (425).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (426).png",
+        "file_path": "data/images\\lung\\Lung MRI (426).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (427).png",
+        "file_path": "data/images\\lung\\Lung MRI (427).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (428).png",
+        "file_path": "data/images\\lung\\Lung MRI (428).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (429).png",
+        "file_path": "data/images\\lung\\Lung MRI (429).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (43).png",
+        "file_path": "data/images\\lung\\Lung MRI (43).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (430).png",
+        "file_path": "data/images\\lung\\Lung MRI (430).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (431).png",
+        "file_path": "data/images\\lung\\Lung MRI (431).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (432).png",
+        "file_path": "data/images\\lung\\Lung MRI (432).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (433).png",
+        "file_path": "data/images\\lung\\Lung MRI (433).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (434).png",
+        "file_path": "data/images\\lung\\Lung MRI (434).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (435).png",
+        "file_path": "data/images\\lung\\Lung MRI (435).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (436).png",
+        "file_path": "data/images\\lung\\Lung MRI (436).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (437).png",
+        "file_path": "data/images\\lung\\Lung MRI (437).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (438).png",
+        "file_path": "data/images\\lung\\Lung MRI (438).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (439).png",
+        "file_path": "data/images\\lung\\Lung MRI (439).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (44).png",
+        "file_path": "data/images\\lung\\Lung MRI (44).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (440).png",
+        "file_path": "data/images\\lung\\Lung MRI (440).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (441).png",
+        "file_path": "data/images\\lung\\Lung MRI (441).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (442).png",
+        "file_path": "data/images\\lung\\Lung MRI (442).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (443).png",
+        "file_path": "data/images\\lung\\Lung MRI (443).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (444).png",
+        "file_path": "data/images\\lung\\Lung MRI (444).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (445).png",
+        "file_path": "data/images\\lung\\Lung MRI (445).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (446).png",
+        "file_path": "data/images\\lung\\Lung MRI (446).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (447).png",
+        "file_path": "data/images\\lung\\Lung MRI (447).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (448).png",
+        "file_path": "data/images\\lung\\Lung MRI (448).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (449).png",
+        "file_path": "data/images\\lung\\Lung MRI (449).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (45).png",
+        "file_path": "data/images\\lung\\Lung MRI (45).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (450).png",
+        "file_path": "data/images\\lung\\Lung MRI (450).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (451).png",
+        "file_path": "data/images\\lung\\Lung MRI (451).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (452).png",
+        "file_path": "data/images\\lung\\Lung MRI (452).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (453).png",
+        "file_path": "data/images\\lung\\Lung MRI (453).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (454).png",
+        "file_path": "data/images\\lung\\Lung MRI (454).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (455).png",
+        "file_path": "data/images\\lung\\Lung MRI (455).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (456).png",
+        "file_path": "data/images\\lung\\Lung MRI (456).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (457).png",
+        "file_path": "data/images\\lung\\Lung MRI (457).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (458).png",
+        "file_path": "data/images\\lung\\Lung MRI (458).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (459).png",
+        "file_path": "data/images\\lung\\Lung MRI (459).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (46).png",
+        "file_path": "data/images\\lung\\Lung MRI (46).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (460).png",
+        "file_path": "data/images\\lung\\Lung MRI (460).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (461).png",
+        "file_path": "data/images\\lung\\Lung MRI (461).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (462).png",
+        "file_path": "data/images\\lung\\Lung MRI (462).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (463).png",
+        "file_path": "data/images\\lung\\Lung MRI (463).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (464).png",
+        "file_path": "data/images\\lung\\Lung MRI (464).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (465).png",
+        "file_path": "data/images\\lung\\Lung MRI (465).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (466).png",
+        "file_path": "data/images\\lung\\Lung MRI (466).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (467).png",
+        "file_path": "data/images\\lung\\Lung MRI (467).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (468).png",
+        "file_path": "data/images\\lung\\Lung MRI (468).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (469).png",
+        "file_path": "data/images\\lung\\Lung MRI (469).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (47).png",
+        "file_path": "data/images\\lung\\Lung MRI (47).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (470).png",
+        "file_path": "data/images\\lung\\Lung MRI (470).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (471).png",
+        "file_path": "data/images\\lung\\Lung MRI (471).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (472).png",
+        "file_path": "data/images\\lung\\Lung MRI (472).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (473).png",
+        "file_path": "data/images\\lung\\Lung MRI (473).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (474).png",
+        "file_path": "data/images\\lung\\Lung MRI (474).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (475).png",
+        "file_path": "data/images\\lung\\Lung MRI (475).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (476).png",
+        "file_path": "data/images\\lung\\Lung MRI (476).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (477).png",
+        "file_path": "data/images\\lung\\Lung MRI (477).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (478).png",
+        "file_path": "data/images\\lung\\Lung MRI (478).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (479).png",
+        "file_path": "data/images\\lung\\Lung MRI (479).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (48).png",
+        "file_path": "data/images\\lung\\Lung MRI (48).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (480).png",
+        "file_path": "data/images\\lung\\Lung MRI (480).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (481).png",
+        "file_path": "data/images\\lung\\Lung MRI (481).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (482).png",
+        "file_path": "data/images\\lung\\Lung MRI (482).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (483).png",
+        "file_path": "data/images\\lung\\Lung MRI (483).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (484).png",
+        "file_path": "data/images\\lung\\Lung MRI (484).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (485).png",
+        "file_path": "data/images\\lung\\Lung MRI (485).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (486).png",
+        "file_path": "data/images\\lung\\Lung MRI (486).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (487).png",
+        "file_path": "data/images\\lung\\Lung MRI (487).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (488).png",
+        "file_path": "data/images\\lung\\Lung MRI (488).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (489).png",
+        "file_path": "data/images\\lung\\Lung MRI (489).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (49).png",
+        "file_path": "data/images\\lung\\Lung MRI (49).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (490).png",
+        "file_path": "data/images\\lung\\Lung MRI (490).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (491).png",
+        "file_path": "data/images\\lung\\Lung MRI (491).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (492).png",
+        "file_path": "data/images\\lung\\Lung MRI (492).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (493).png",
+        "file_path": "data/images\\lung\\Lung MRI (493).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (494).png",
+        "file_path": "data/images\\lung\\Lung MRI (494).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (495).png",
+        "file_path": "data/images\\lung\\Lung MRI (495).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (496).png",
+        "file_path": "data/images\\lung\\Lung MRI (496).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (497).png",
+        "file_path": "data/images\\lung\\Lung MRI (497).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (498).png",
+        "file_path": "data/images\\lung\\Lung MRI (498).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (499).png",
+        "file_path": "data/images\\lung\\Lung MRI (499).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (5).png",
+        "file_path": "data/images\\lung\\Lung MRI (5).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (50).png",
+        "file_path": "data/images\\lung\\Lung MRI (50).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (500).png",
+        "file_path": "data/images\\lung\\Lung MRI (500).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (501).png",
+        "file_path": "data/images\\lung\\Lung MRI (501).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (502).png",
+        "file_path": "data/images\\lung\\Lung MRI (502).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (503).png",
+        "file_path": "data/images\\lung\\Lung MRI (503).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (504).png",
+        "file_path": "data/images\\lung\\Lung MRI (504).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (505).png",
+        "file_path": "data/images\\lung\\Lung MRI (505).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (506).png",
+        "file_path": "data/images\\lung\\Lung MRI (506).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (507).png",
+        "file_path": "data/images\\lung\\Lung MRI (507).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (508).png",
+        "file_path": "data/images\\lung\\Lung MRI (508).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (509).png",
+        "file_path": "data/images\\lung\\Lung MRI (509).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (51).png",
+        "file_path": "data/images\\lung\\Lung MRI (51).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (510).png",
+        "file_path": "data/images\\lung\\Lung MRI (510).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (511).png",
+        "file_path": "data/images\\lung\\Lung MRI (511).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (512).png",
+        "file_path": "data/images\\lung\\Lung MRI (512).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (513).png",
+        "file_path": "data/images\\lung\\Lung MRI (513).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (514).png",
+        "file_path": "data/images\\lung\\Lung MRI (514).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (515).png",
+        "file_path": "data/images\\lung\\Lung MRI (515).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (516).png",
+        "file_path": "data/images\\lung\\Lung MRI (516).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (517).png",
+        "file_path": "data/images\\lung\\Lung MRI (517).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (518).png",
+        "file_path": "data/images\\lung\\Lung MRI (518).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (519).png",
+        "file_path": "data/images\\lung\\Lung MRI (519).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (52).png",
+        "file_path": "data/images\\lung\\Lung MRI (52).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (520).png",
+        "file_path": "data/images\\lung\\Lung MRI (520).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (521).png",
+        "file_path": "data/images\\lung\\Lung MRI (521).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (522).png",
+        "file_path": "data/images\\lung\\Lung MRI (522).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (523).png",
+        "file_path": "data/images\\lung\\Lung MRI (523).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (524).png",
+        "file_path": "data/images\\lung\\Lung MRI (524).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (525).png",
+        "file_path": "data/images\\lung\\Lung MRI (525).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (526).png",
+        "file_path": "data/images\\lung\\Lung MRI (526).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (527).png",
+        "file_path": "data/images\\lung\\Lung MRI (527).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (528).png",
+        "file_path": "data/images\\lung\\Lung MRI (528).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (529).png",
+        "file_path": "data/images\\lung\\Lung MRI (529).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (53).png",
+        "file_path": "data/images\\lung\\Lung MRI (53).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (530).png",
+        "file_path": "data/images\\lung\\Lung MRI (530).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (531).png",
+        "file_path": "data/images\\lung\\Lung MRI (531).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (532).png",
+        "file_path": "data/images\\lung\\Lung MRI (532).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (533).png",
+        "file_path": "data/images\\lung\\Lung MRI (533).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (534).png",
+        "file_path": "data/images\\lung\\Lung MRI (534).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (535).png",
+        "file_path": "data/images\\lung\\Lung MRI (535).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (536).png",
+        "file_path": "data/images\\lung\\Lung MRI (536).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (537).png",
+        "file_path": "data/images\\lung\\Lung MRI (537).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (538).png",
+        "file_path": "data/images\\lung\\Lung MRI (538).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (539).png",
+        "file_path": "data/images\\lung\\Lung MRI (539).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (54).png",
+        "file_path": "data/images\\lung\\Lung MRI (54).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (540).png",
+        "file_path": "data/images\\lung\\Lung MRI (540).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (541).png",
+        "file_path": "data/images\\lung\\Lung MRI (541).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (542).png",
+        "file_path": "data/images\\lung\\Lung MRI (542).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (543).png",
+        "file_path": "data/images\\lung\\Lung MRI (543).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (544).png",
+        "file_path": "data/images\\lung\\Lung MRI (544).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (545).png",
+        "file_path": "data/images\\lung\\Lung MRI (545).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (546).png",
+        "file_path": "data/images\\lung\\Lung MRI (546).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (547).png",
+        "file_path": "data/images\\lung\\Lung MRI (547).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (548).png",
+        "file_path": "data/images\\lung\\Lung MRI (548).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (549).png",
+        "file_path": "data/images\\lung\\Lung MRI (549).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (55).png",
+        "file_path": "data/images\\lung\\Lung MRI (55).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (550).png",
+        "file_path": "data/images\\lung\\Lung MRI (550).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (551).png",
+        "file_path": "data/images\\lung\\Lung MRI (551).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (552).png",
+        "file_path": "data/images\\lung\\Lung MRI (552).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (553).png",
+        "file_path": "data/images\\lung\\Lung MRI (553).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (554).png",
+        "file_path": "data/images\\lung\\Lung MRI (554).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (555).png",
+        "file_path": "data/images\\lung\\Lung MRI (555).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (556).png",
+        "file_path": "data/images\\lung\\Lung MRI (556).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (557).png",
+        "file_path": "data/images\\lung\\Lung MRI (557).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (558).png",
+        "file_path": "data/images\\lung\\Lung MRI (558).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (559).png",
+        "file_path": "data/images\\lung\\Lung MRI (559).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (56).png",
+        "file_path": "data/images\\lung\\Lung MRI (56).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (560).png",
+        "file_path": "data/images\\lung\\Lung MRI (560).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (561).png",
+        "file_path": "data/images\\lung\\Lung MRI (561).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (562).png",
+        "file_path": "data/images\\lung\\Lung MRI (562).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (563).png",
+        "file_path": "data/images\\lung\\Lung MRI (563).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (564).png",
+        "file_path": "data/images\\lung\\Lung MRI (564).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (565).png",
+        "file_path": "data/images\\lung\\Lung MRI (565).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (566).png",
+        "file_path": "data/images\\lung\\Lung MRI (566).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (567).png",
+        "file_path": "data/images\\lung\\Lung MRI (567).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (568).png",
+        "file_path": "data/images\\lung\\Lung MRI (568).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (569).png",
+        "file_path": "data/images\\lung\\Lung MRI (569).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (57).png",
+        "file_path": "data/images\\lung\\Lung MRI (57).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (570).png",
+        "file_path": "data/images\\lung\\Lung MRI (570).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (571).png",
+        "file_path": "data/images\\lung\\Lung MRI (571).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (572).png",
+        "file_path": "data/images\\lung\\Lung MRI (572).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (573).png",
+        "file_path": "data/images\\lung\\Lung MRI (573).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (574).png",
+        "file_path": "data/images\\lung\\Lung MRI (574).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (575).png",
+        "file_path": "data/images\\lung\\Lung MRI (575).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (576).png",
+        "file_path": "data/images\\lung\\Lung MRI (576).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (577).png",
+        "file_path": "data/images\\lung\\Lung MRI (577).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (578).png",
+        "file_path": "data/images\\lung\\Lung MRI (578).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (579).png",
+        "file_path": "data/images\\lung\\Lung MRI (579).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (58).png",
+        "file_path": "data/images\\lung\\Lung MRI (58).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (580).png",
+        "file_path": "data/images\\lung\\Lung MRI (580).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (581).png",
+        "file_path": "data/images\\lung\\Lung MRI (581).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (582).png",
+        "file_path": "data/images\\lung\\Lung MRI (582).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (583).png",
+        "file_path": "data/images\\lung\\Lung MRI (583).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (584).png",
+        "file_path": "data/images\\lung\\Lung MRI (584).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (585).png",
+        "file_path": "data/images\\lung\\Lung MRI (585).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (586).png",
+        "file_path": "data/images\\lung\\Lung MRI (586).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (587).png",
+        "file_path": "data/images\\lung\\Lung MRI (587).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (588).png",
+        "file_path": "data/images\\lung\\Lung MRI (588).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (589).png",
+        "file_path": "data/images\\lung\\Lung MRI (589).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (59).png",
+        "file_path": "data/images\\lung\\Lung MRI (59).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (590).png",
+        "file_path": "data/images\\lung\\Lung MRI (590).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (591).png",
+        "file_path": "data/images\\lung\\Lung MRI (591).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (592).png",
+        "file_path": "data/images\\lung\\Lung MRI (592).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (593).png",
+        "file_path": "data/images\\lung\\Lung MRI (593).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (594).png",
+        "file_path": "data/images\\lung\\Lung MRI (594).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (595).png",
+        "file_path": "data/images\\lung\\Lung MRI (595).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (596).png",
+        "file_path": "data/images\\lung\\Lung MRI (596).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (597).png",
+        "file_path": "data/images\\lung\\Lung MRI (597).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (598).png",
+        "file_path": "data/images\\lung\\Lung MRI (598).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (599).png",
+        "file_path": "data/images\\lung\\Lung MRI (599).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (6).png",
+        "file_path": "data/images\\lung\\Lung MRI (6).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (60).png",
+        "file_path": "data/images\\lung\\Lung MRI (60).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (600).png",
+        "file_path": "data/images\\lung\\Lung MRI (600).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (601).png",
+        "file_path": "data/images\\lung\\Lung MRI (601).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (602).png",
+        "file_path": "data/images\\lung\\Lung MRI (602).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (603).png",
+        "file_path": "data/images\\lung\\Lung MRI (603).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (604).png",
+        "file_path": "data/images\\lung\\Lung MRI (604).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (605).png",
+        "file_path": "data/images\\lung\\Lung MRI (605).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (606).png",
+        "file_path": "data/images\\lung\\Lung MRI (606).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (607).png",
+        "file_path": "data/images\\lung\\Lung MRI (607).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (608).png",
+        "file_path": "data/images\\lung\\Lung MRI (608).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (609).png",
+        "file_path": "data/images\\lung\\Lung MRI (609).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (61).png",
+        "file_path": "data/images\\lung\\Lung MRI (61).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (610).png",
+        "file_path": "data/images\\lung\\Lung MRI (610).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (611).png",
+        "file_path": "data/images\\lung\\Lung MRI (611).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (612).png",
+        "file_path": "data/images\\lung\\Lung MRI (612).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (613).png",
+        "file_path": "data/images\\lung\\Lung MRI (613).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (614).png",
+        "file_path": "data/images\\lung\\Lung MRI (614).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (615).png",
+        "file_path": "data/images\\lung\\Lung MRI (615).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (616).png",
+        "file_path": "data/images\\lung\\Lung MRI (616).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (617).png",
+        "file_path": "data/images\\lung\\Lung MRI (617).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (618).png",
+        "file_path": "data/images\\lung\\Lung MRI (618).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (619).png",
+        "file_path": "data/images\\lung\\Lung MRI (619).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (62).png",
+        "file_path": "data/images\\lung\\Lung MRI (62).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (620).png",
+        "file_path": "data/images\\lung\\Lung MRI (620).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (621).png",
+        "file_path": "data/images\\lung\\Lung MRI (621).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (622).png",
+        "file_path": "data/images\\lung\\Lung MRI (622).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (623).png",
+        "file_path": "data/images\\lung\\Lung MRI (623).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (624).png",
+        "file_path": "data/images\\lung\\Lung MRI (624).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (625).png",
+        "file_path": "data/images\\lung\\Lung MRI (625).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (626).png",
+        "file_path": "data/images\\lung\\Lung MRI (626).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (627).png",
+        "file_path": "data/images\\lung\\Lung MRI (627).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (628).png",
+        "file_path": "data/images\\lung\\Lung MRI (628).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (629).png",
+        "file_path": "data/images\\lung\\Lung MRI (629).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (63).png",
+        "file_path": "data/images\\lung\\Lung MRI (63).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (630).png",
+        "file_path": "data/images\\lung\\Lung MRI (630).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (631).png",
+        "file_path": "data/images\\lung\\Lung MRI (631).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (632).png",
+        "file_path": "data/images\\lung\\Lung MRI (632).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (633).png",
+        "file_path": "data/images\\lung\\Lung MRI (633).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (634).png",
+        "file_path": "data/images\\lung\\Lung MRI (634).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (635).png",
+        "file_path": "data/images\\lung\\Lung MRI (635).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (636).png",
+        "file_path": "data/images\\lung\\Lung MRI (636).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (637).png",
+        "file_path": "data/images\\lung\\Lung MRI (637).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (638).png",
+        "file_path": "data/images\\lung\\Lung MRI (638).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (639).png",
+        "file_path": "data/images\\lung\\Lung MRI (639).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (64).png",
+        "file_path": "data/images\\lung\\Lung MRI (64).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (640).png",
+        "file_path": "data/images\\lung\\Lung MRI (640).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (641).png",
+        "file_path": "data/images\\lung\\Lung MRI (641).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (642).png",
+        "file_path": "data/images\\lung\\Lung MRI (642).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (643).png",
+        "file_path": "data/images\\lung\\Lung MRI (643).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (644).png",
+        "file_path": "data/images\\lung\\Lung MRI (644).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (645).png",
+        "file_path": "data/images\\lung\\Lung MRI (645).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (646).png",
+        "file_path": "data/images\\lung\\Lung MRI (646).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (647).png",
+        "file_path": "data/images\\lung\\Lung MRI (647).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (648).png",
+        "file_path": "data/images\\lung\\Lung MRI (648).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (649).png",
+        "file_path": "data/images\\lung\\Lung MRI (649).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (65).png",
+        "file_path": "data/images\\lung\\Lung MRI (65).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (650).png",
+        "file_path": "data/images\\lung\\Lung MRI (650).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (651).png",
+        "file_path": "data/images\\lung\\Lung MRI (651).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (652).png",
+        "file_path": "data/images\\lung\\Lung MRI (652).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (653).png",
+        "file_path": "data/images\\lung\\Lung MRI (653).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (654).png",
+        "file_path": "data/images\\lung\\Lung MRI (654).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (655).png",
+        "file_path": "data/images\\lung\\Lung MRI (655).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (656).png",
+        "file_path": "data/images\\lung\\Lung MRI (656).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (657).png",
+        "file_path": "data/images\\lung\\Lung MRI (657).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (658).png",
+        "file_path": "data/images\\lung\\Lung MRI (658).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (659).png",
+        "file_path": "data/images\\lung\\Lung MRI (659).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (66).png",
+        "file_path": "data/images\\lung\\Lung MRI (66).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (660).png",
+        "file_path": "data/images\\lung\\Lung MRI (660).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (661).png",
+        "file_path": "data/images\\lung\\Lung MRI (661).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (662).png",
+        "file_path": "data/images\\lung\\Lung MRI (662).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (663).png",
+        "file_path": "data/images\\lung\\Lung MRI (663).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (664).png",
+        "file_path": "data/images\\lung\\Lung MRI (664).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (665).png",
+        "file_path": "data/images\\lung\\Lung MRI (665).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (666).png",
+        "file_path": "data/images\\lung\\Lung MRI (666).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (667).png",
+        "file_path": "data/images\\lung\\Lung MRI (667).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (668).png",
+        "file_path": "data/images\\lung\\Lung MRI (668).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (669).png",
+        "file_path": "data/images\\lung\\Lung MRI (669).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (67).png",
+        "file_path": "data/images\\lung\\Lung MRI (67).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (670).png",
+        "file_path": "data/images\\lung\\Lung MRI (670).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (671).png",
+        "file_path": "data/images\\lung\\Lung MRI (671).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (672).png",
+        "file_path": "data/images\\lung\\Lung MRI (672).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (673).png",
+        "file_path": "data/images\\lung\\Lung MRI (673).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (674).png",
+        "file_path": "data/images\\lung\\Lung MRI (674).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (675).png",
+        "file_path": "data/images\\lung\\Lung MRI (675).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (676).png",
+        "file_path": "data/images\\lung\\Lung MRI (676).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (677).png",
+        "file_path": "data/images\\lung\\Lung MRI (677).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (678).png",
+        "file_path": "data/images\\lung\\Lung MRI (678).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (679).png",
+        "file_path": "data/images\\lung\\Lung MRI (679).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (68).png",
+        "file_path": "data/images\\lung\\Lung MRI (68).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (680).png",
+        "file_path": "data/images\\lung\\Lung MRI (680).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (681).png",
+        "file_path": "data/images\\lung\\Lung MRI (681).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (682).png",
+        "file_path": "data/images\\lung\\Lung MRI (682).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (683).png",
+        "file_path": "data/images\\lung\\Lung MRI (683).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (684).png",
+        "file_path": "data/images\\lung\\Lung MRI (684).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (685).png",
+        "file_path": "data/images\\lung\\Lung MRI (685).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (686).png",
+        "file_path": "data/images\\lung\\Lung MRI (686).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (687).png",
+        "file_path": "data/images\\lung\\Lung MRI (687).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (688).png",
+        "file_path": "data/images\\lung\\Lung MRI (688).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (689).png",
+        "file_path": "data/images\\lung\\Lung MRI (689).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (69).png",
+        "file_path": "data/images\\lung\\Lung MRI (69).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (690).png",
+        "file_path": "data/images\\lung\\Lung MRI (690).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (691).png",
+        "file_path": "data/images\\lung\\Lung MRI (691).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (692).png",
+        "file_path": "data/images\\lung\\Lung MRI (692).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (693).png",
+        "file_path": "data/images\\lung\\Lung MRI (693).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (694).png",
+        "file_path": "data/images\\lung\\Lung MRI (694).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (695).png",
+        "file_path": "data/images\\lung\\Lung MRI (695).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (696).png",
+        "file_path": "data/images\\lung\\Lung MRI (696).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (697).png",
+        "file_path": "data/images\\lung\\Lung MRI (697).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (698).png",
+        "file_path": "data/images\\lung\\Lung MRI (698).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (699).png",
+        "file_path": "data/images\\lung\\Lung MRI (699).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (7).png",
+        "file_path": "data/images\\lung\\Lung MRI (7).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (70).png",
+        "file_path": "data/images\\lung\\Lung MRI (70).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (700).png",
+        "file_path": "data/images\\lung\\Lung MRI (700).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (701).png",
+        "file_path": "data/images\\lung\\Lung MRI (701).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (702).png",
+        "file_path": "data/images\\lung\\Lung MRI (702).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (703).png",
+        "file_path": "data/images\\lung\\Lung MRI (703).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (704).png",
+        "file_path": "data/images\\lung\\Lung MRI (704).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (705).png",
+        "file_path": "data/images\\lung\\Lung MRI (705).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (706).png",
+        "file_path": "data/images\\lung\\Lung MRI (706).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (707).png",
+        "file_path": "data/images\\lung\\Lung MRI (707).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (708).png",
+        "file_path": "data/images\\lung\\Lung MRI (708).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (709).png",
+        "file_path": "data/images\\lung\\Lung MRI (709).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (71).png",
+        "file_path": "data/images\\lung\\Lung MRI (71).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (710).png",
+        "file_path": "data/images\\lung\\Lung MRI (710).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (711).png",
+        "file_path": "data/images\\lung\\Lung MRI (711).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (712).png",
+        "file_path": "data/images\\lung\\Lung MRI (712).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (713).png",
+        "file_path": "data/images\\lung\\Lung MRI (713).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (714).png",
+        "file_path": "data/images\\lung\\Lung MRI (714).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (715).png",
+        "file_path": "data/images\\lung\\Lung MRI (715).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (716).png",
+        "file_path": "data/images\\lung\\Lung MRI (716).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (717).png",
+        "file_path": "data/images\\lung\\Lung MRI (717).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (718).png",
+        "file_path": "data/images\\lung\\Lung MRI (718).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (719).png",
+        "file_path": "data/images\\lung\\Lung MRI (719).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (72).png",
+        "file_path": "data/images\\lung\\Lung MRI (72).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (720).png",
+        "file_path": "data/images\\lung\\Lung MRI (720).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (721).png",
+        "file_path": "data/images\\lung\\Lung MRI (721).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (722).png",
+        "file_path": "data/images\\lung\\Lung MRI (722).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (723).png",
+        "file_path": "data/images\\lung\\Lung MRI (723).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (724).png",
+        "file_path": "data/images\\lung\\Lung MRI (724).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (725).png",
+        "file_path": "data/images\\lung\\Lung MRI (725).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (726).png",
+        "file_path": "data/images\\lung\\Lung MRI (726).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (727).png",
+        "file_path": "data/images\\lung\\Lung MRI (727).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (728).png",
+        "file_path": "data/images\\lung\\Lung MRI (728).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (729).png",
+        "file_path": "data/images\\lung\\Lung MRI (729).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (73).png",
+        "file_path": "data/images\\lung\\Lung MRI (73).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (730).png",
+        "file_path": "data/images\\lung\\Lung MRI (730).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (731).png",
+        "file_path": "data/images\\lung\\Lung MRI (731).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (732).png",
+        "file_path": "data/images\\lung\\Lung MRI (732).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (733).png",
+        "file_path": "data/images\\lung\\Lung MRI (733).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (734).png",
+        "file_path": "data/images\\lung\\Lung MRI (734).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (735).png",
+        "file_path": "data/images\\lung\\Lung MRI (735).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (736).png",
+        "file_path": "data/images\\lung\\Lung MRI (736).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (737).png",
+        "file_path": "data/images\\lung\\Lung MRI (737).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (738).png",
+        "file_path": "data/images\\lung\\Lung MRI (738).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (739).png",
+        "file_path": "data/images\\lung\\Lung MRI (739).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (74).png",
+        "file_path": "data/images\\lung\\Lung MRI (74).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (740).png",
+        "file_path": "data/images\\lung\\Lung MRI (740).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (741).png",
+        "file_path": "data/images\\lung\\Lung MRI (741).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (742).png",
+        "file_path": "data/images\\lung\\Lung MRI (742).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (743).png",
+        "file_path": "data/images\\lung\\Lung MRI (743).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (744).png",
+        "file_path": "data/images\\lung\\Lung MRI (744).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (745).png",
+        "file_path": "data/images\\lung\\Lung MRI (745).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (746).png",
+        "file_path": "data/images\\lung\\Lung MRI (746).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (747).png",
+        "file_path": "data/images\\lung\\Lung MRI (747).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (748).png",
+        "file_path": "data/images\\lung\\Lung MRI (748).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (749).png",
+        "file_path": "data/images\\lung\\Lung MRI (749).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (75).png",
+        "file_path": "data/images\\lung\\Lung MRI (75).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (750).png",
+        "file_path": "data/images\\lung\\Lung MRI (750).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (751).png",
+        "file_path": "data/images\\lung\\Lung MRI (751).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (752).png",
+        "file_path": "data/images\\lung\\Lung MRI (752).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (753).png",
+        "file_path": "data/images\\lung\\Lung MRI (753).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (754).png",
+        "file_path": "data/images\\lung\\Lung MRI (754).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (755).png",
+        "file_path": "data/images\\lung\\Lung MRI (755).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (756).png",
+        "file_path": "data/images\\lung\\Lung MRI (756).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (757).png",
+        "file_path": "data/images\\lung\\Lung MRI (757).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (758).png",
+        "file_path": "data/images\\lung\\Lung MRI (758).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (759).png",
+        "file_path": "data/images\\lung\\Lung MRI (759).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (76).png",
+        "file_path": "data/images\\lung\\Lung MRI (76).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (760).png",
+        "file_path": "data/images\\lung\\Lung MRI (760).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (761).png",
+        "file_path": "data/images\\lung\\Lung MRI (761).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (762).png",
+        "file_path": "data/images\\lung\\Lung MRI (762).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (763).png",
+        "file_path": "data/images\\lung\\Lung MRI (763).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (764).png",
+        "file_path": "data/images\\lung\\Lung MRI (764).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (765).png",
+        "file_path": "data/images\\lung\\Lung MRI (765).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (766).png",
+        "file_path": "data/images\\lung\\Lung MRI (766).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (767).png",
+        "file_path": "data/images\\lung\\Lung MRI (767).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (768).png",
+        "file_path": "data/images\\lung\\Lung MRI (768).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (769).png",
+        "file_path": "data/images\\lung\\Lung MRI (769).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (77).png",
+        "file_path": "data/images\\lung\\Lung MRI (77).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (770).png",
+        "file_path": "data/images\\lung\\Lung MRI (770).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (771).png",
+        "file_path": "data/images\\lung\\Lung MRI (771).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (772).png",
+        "file_path": "data/images\\lung\\Lung MRI (772).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (773).png",
+        "file_path": "data/images\\lung\\Lung MRI (773).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (774).png",
+        "file_path": "data/images\\lung\\Lung MRI (774).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (775).png",
+        "file_path": "data/images\\lung\\Lung MRI (775).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (776).png",
+        "file_path": "data/images\\lung\\Lung MRI (776).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (777).png",
+        "file_path": "data/images\\lung\\Lung MRI (777).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (778).png",
+        "file_path": "data/images\\lung\\Lung MRI (778).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (779).png",
+        "file_path": "data/images\\lung\\Lung MRI (779).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (78).png",
+        "file_path": "data/images\\lung\\Lung MRI (78).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (780).png",
+        "file_path": "data/images\\lung\\Lung MRI (780).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (781).png",
+        "file_path": "data/images\\lung\\Lung MRI (781).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (782).png",
+        "file_path": "data/images\\lung\\Lung MRI (782).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (783).png",
+        "file_path": "data/images\\lung\\Lung MRI (783).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (784).png",
+        "file_path": "data/images\\lung\\Lung MRI (784).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (785).png",
+        "file_path": "data/images\\lung\\Lung MRI (785).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (786).png",
+        "file_path": "data/images\\lung\\Lung MRI (786).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (787).png",
+        "file_path": "data/images\\lung\\Lung MRI (787).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (788).png",
+        "file_path": "data/images\\lung\\Lung MRI (788).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (789).png",
+        "file_path": "data/images\\lung\\Lung MRI (789).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (79).png",
+        "file_path": "data/images\\lung\\Lung MRI (79).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (790).png",
+        "file_path": "data/images\\lung\\Lung MRI (790).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (791).png",
+        "file_path": "data/images\\lung\\Lung MRI (791).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (792).png",
+        "file_path": "data/images\\lung\\Lung MRI (792).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (793).png",
+        "file_path": "data/images\\lung\\Lung MRI (793).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (794).png",
+        "file_path": "data/images\\lung\\Lung MRI (794).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (795).png",
+        "file_path": "data/images\\lung\\Lung MRI (795).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (796).png",
+        "file_path": "data/images\\lung\\Lung MRI (796).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (797).png",
+        "file_path": "data/images\\lung\\Lung MRI (797).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (798).png",
+        "file_path": "data/images\\lung\\Lung MRI (798).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (799).png",
+        "file_path": "data/images\\lung\\Lung MRI (799).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (8).png",
+        "file_path": "data/images\\lung\\Lung MRI (8).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (80).png",
+        "file_path": "data/images\\lung\\Lung MRI (80).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (800).png",
+        "file_path": "data/images\\lung\\Lung MRI (800).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (801).png",
+        "file_path": "data/images\\lung\\Lung MRI (801).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (802).png",
+        "file_path": "data/images\\lung\\Lung MRI (802).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (803).png",
+        "file_path": "data/images\\lung\\Lung MRI (803).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (804).png",
+        "file_path": "data/images\\lung\\Lung MRI (804).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (805).png",
+        "file_path": "data/images\\lung\\Lung MRI (805).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (806).png",
+        "file_path": "data/images\\lung\\Lung MRI (806).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (807).png",
+        "file_path": "data/images\\lung\\Lung MRI (807).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (808).png",
+        "file_path": "data/images\\lung\\Lung MRI (808).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (809).png",
+        "file_path": "data/images\\lung\\Lung MRI (809).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (81).png",
+        "file_path": "data/images\\lung\\Lung MRI (81).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (810).png",
+        "file_path": "data/images\\lung\\Lung MRI (810).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (811).png",
+        "file_path": "data/images\\lung\\Lung MRI (811).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (812).png",
+        "file_path": "data/images\\lung\\Lung MRI (812).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (813).png",
+        "file_path": "data/images\\lung\\Lung MRI (813).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (814).png",
+        "file_path": "data/images\\lung\\Lung MRI (814).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (815).png",
+        "file_path": "data/images\\lung\\Lung MRI (815).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (816).png",
+        "file_path": "data/images\\lung\\Lung MRI (816).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (817).png",
+        "file_path": "data/images\\lung\\Lung MRI (817).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (818).png",
+        "file_path": "data/images\\lung\\Lung MRI (818).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (819).png",
+        "file_path": "data/images\\lung\\Lung MRI (819).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (82).png",
+        "file_path": "data/images\\lung\\Lung MRI (82).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (820).png",
+        "file_path": "data/images\\lung\\Lung MRI (820).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (821).png",
+        "file_path": "data/images\\lung\\Lung MRI (821).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (822).png",
+        "file_path": "data/images\\lung\\Lung MRI (822).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (823).png",
+        "file_path": "data/images\\lung\\Lung MRI (823).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (824).png",
+        "file_path": "data/images\\lung\\Lung MRI (824).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (825).png",
+        "file_path": "data/images\\lung\\Lung MRI (825).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (826).png",
+        "file_path": "data/images\\lung\\Lung MRI (826).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (827).png",
+        "file_path": "data/images\\lung\\Lung MRI (827).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (828).png",
+        "file_path": "data/images\\lung\\Lung MRI (828).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (829).png",
+        "file_path": "data/images\\lung\\Lung MRI (829).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (83).png",
+        "file_path": "data/images\\lung\\Lung MRI (83).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (830).png",
+        "file_path": "data/images\\lung\\Lung MRI (830).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (831).png",
+        "file_path": "data/images\\lung\\Lung MRI (831).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (832).png",
+        "file_path": "data/images\\lung\\Lung MRI (832).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (833).png",
+        "file_path": "data/images\\lung\\Lung MRI (833).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (834).png",
+        "file_path": "data/images\\lung\\Lung MRI (834).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (835).png",
+        "file_path": "data/images\\lung\\Lung MRI (835).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (836).png",
+        "file_path": "data/images\\lung\\Lung MRI (836).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (837).png",
+        "file_path": "data/images\\lung\\Lung MRI (837).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (838).png",
+        "file_path": "data/images\\lung\\Lung MRI (838).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (839).png",
+        "file_path": "data/images\\lung\\Lung MRI (839).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (84).png",
+        "file_path": "data/images\\lung\\Lung MRI (84).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (840).png",
+        "file_path": "data/images\\lung\\Lung MRI (840).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (841).png",
+        "file_path": "data/images\\lung\\Lung MRI (841).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (842).png",
+        "file_path": "data/images\\lung\\Lung MRI (842).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (843).png",
+        "file_path": "data/images\\lung\\Lung MRI (843).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (844).png",
+        "file_path": "data/images\\lung\\Lung MRI (844).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (845).png",
+        "file_path": "data/images\\lung\\Lung MRI (845).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (846).png",
+        "file_path": "data/images\\lung\\Lung MRI (846).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (847).png",
+        "file_path": "data/images\\lung\\Lung MRI (847).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (848).png",
+        "file_path": "data/images\\lung\\Lung MRI (848).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (849).png",
+        "file_path": "data/images\\lung\\Lung MRI (849).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (85).png",
+        "file_path": "data/images\\lung\\Lung MRI (85).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (850).png",
+        "file_path": "data/images\\lung\\Lung MRI (850).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (851).png",
+        "file_path": "data/images\\lung\\Lung MRI (851).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (852).png",
+        "file_path": "data/images\\lung\\Lung MRI (852).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (853).png",
+        "file_path": "data/images\\lung\\Lung MRI (853).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (854).png",
+        "file_path": "data/images\\lung\\Lung MRI (854).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (855).png",
+        "file_path": "data/images\\lung\\Lung MRI (855).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (856).png",
+        "file_path": "data/images\\lung\\Lung MRI (856).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (857).png",
+        "file_path": "data/images\\lung\\Lung MRI (857).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (858).png",
+        "file_path": "data/images\\lung\\Lung MRI (858).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (859).png",
+        "file_path": "data/images\\lung\\Lung MRI (859).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (86).png",
+        "file_path": "data/images\\lung\\Lung MRI (86).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (860).png",
+        "file_path": "data/images\\lung\\Lung MRI (860).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (861).png",
+        "file_path": "data/images\\lung\\Lung MRI (861).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (862).png",
+        "file_path": "data/images\\lung\\Lung MRI (862).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (863).png",
+        "file_path": "data/images\\lung\\Lung MRI (863).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (864).png",
+        "file_path": "data/images\\lung\\Lung MRI (864).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (865).png",
+        "file_path": "data/images\\lung\\Lung MRI (865).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (866).png",
+        "file_path": "data/images\\lung\\Lung MRI (866).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (867).png",
+        "file_path": "data/images\\lung\\Lung MRI (867).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (868).png",
+        "file_path": "data/images\\lung\\Lung MRI (868).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (869).png",
+        "file_path": "data/images\\lung\\Lung MRI (869).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (87).png",
+        "file_path": "data/images\\lung\\Lung MRI (87).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (870).png",
+        "file_path": "data/images\\lung\\Lung MRI (870).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (871).png",
+        "file_path": "data/images\\lung\\Lung MRI (871).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (872).png",
+        "file_path": "data/images\\lung\\Lung MRI (872).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (873).png",
+        "file_path": "data/images\\lung\\Lung MRI (873).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (874).png",
+        "file_path": "data/images\\lung\\Lung MRI (874).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (875).png",
+        "file_path": "data/images\\lung\\Lung MRI (875).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (876).png",
+        "file_path": "data/images\\lung\\Lung MRI (876).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (877).png",
+        "file_path": "data/images\\lung\\Lung MRI (877).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (878).png",
+        "file_path": "data/images\\lung\\Lung MRI (878).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (879).png",
+        "file_path": "data/images\\lung\\Lung MRI (879).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (88).png",
+        "file_path": "data/images\\lung\\Lung MRI (88).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (880).png",
+        "file_path": "data/images\\lung\\Lung MRI (880).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (881).png",
+        "file_path": "data/images\\lung\\Lung MRI (881).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (882).png",
+        "file_path": "data/images\\lung\\Lung MRI (882).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (883).png",
+        "file_path": "data/images\\lung\\Lung MRI (883).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (884).png",
+        "file_path": "data/images\\lung\\Lung MRI (884).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (885).png",
+        "file_path": "data/images\\lung\\Lung MRI (885).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (886).png",
+        "file_path": "data/images\\lung\\Lung MRI (886).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (887).png",
+        "file_path": "data/images\\lung\\Lung MRI (887).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (888).png",
+        "file_path": "data/images\\lung\\Lung MRI (888).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (889).png",
+        "file_path": "data/images\\lung\\Lung MRI (889).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (89).png",
+        "file_path": "data/images\\lung\\Lung MRI (89).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (890).png",
+        "file_path": "data/images\\lung\\Lung MRI (890).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (891).png",
+        "file_path": "data/images\\lung\\Lung MRI (891).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (892).png",
+        "file_path": "data/images\\lung\\Lung MRI (892).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (893).png",
+        "file_path": "data/images\\lung\\Lung MRI (893).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (894).png",
+        "file_path": "data/images\\lung\\Lung MRI (894).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (895).png",
+        "file_path": "data/images\\lung\\Lung MRI (895).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (896).png",
+        "file_path": "data/images\\lung\\Lung MRI (896).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (897).png",
+        "file_path": "data/images\\lung\\Lung MRI (897).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (898).png",
+        "file_path": "data/images\\lung\\Lung MRI (898).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (899).png",
+        "file_path": "data/images\\lung\\Lung MRI (899).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (9).png",
+        "file_path": "data/images\\lung\\Lung MRI (9).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (90).png",
+        "file_path": "data/images\\lung\\Lung MRI (90).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (900).png",
+        "file_path": "data/images\\lung\\Lung MRI (900).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (901).png",
+        "file_path": "data/images\\lung\\Lung MRI (901).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (902).png",
+        "file_path": "data/images\\lung\\Lung MRI (902).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (903).png",
+        "file_path": "data/images\\lung\\Lung MRI (903).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (904).png",
+        "file_path": "data/images\\lung\\Lung MRI (904).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (905).png",
+        "file_path": "data/images\\lung\\Lung MRI (905).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (906).png",
+        "file_path": "data/images\\lung\\Lung MRI (906).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (907).png",
+        "file_path": "data/images\\lung\\Lung MRI (907).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (908).png",
+        "file_path": "data/images\\lung\\Lung MRI (908).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (909).png",
+        "file_path": "data/images\\lung\\Lung MRI (909).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (91).png",
+        "file_path": "data/images\\lung\\Lung MRI (91).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (910).png",
+        "file_path": "data/images\\lung\\Lung MRI (910).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (911).png",
+        "file_path": "data/images\\lung\\Lung MRI (911).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (912).png",
+        "file_path": "data/images\\lung\\Lung MRI (912).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (913).png",
+        "file_path": "data/images\\lung\\Lung MRI (913).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (914).png",
+        "file_path": "data/images\\lung\\Lung MRI (914).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (915).png",
+        "file_path": "data/images\\lung\\Lung MRI (915).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (916).png",
+        "file_path": "data/images\\lung\\Lung MRI (916).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (917).png",
+        "file_path": "data/images\\lung\\Lung MRI (917).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (918).png",
+        "file_path": "data/images\\lung\\Lung MRI (918).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (919).png",
+        "file_path": "data/images\\lung\\Lung MRI (919).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (92).png",
+        "file_path": "data/images\\lung\\Lung MRI (92).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (920).png",
+        "file_path": "data/images\\lung\\Lung MRI (920).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (921).png",
+        "file_path": "data/images\\lung\\Lung MRI (921).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (922).png",
+        "file_path": "data/images\\lung\\Lung MRI (922).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (923).png",
+        "file_path": "data/images\\lung\\Lung MRI (923).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (924).png",
+        "file_path": "data/images\\lung\\Lung MRI (924).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (925).png",
+        "file_path": "data/images\\lung\\Lung MRI (925).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (926).png",
+        "file_path": "data/images\\lung\\Lung MRI (926).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (927).png",
+        "file_path": "data/images\\lung\\Lung MRI (927).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (928).png",
+        "file_path": "data/images\\lung\\Lung MRI (928).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (929).png",
+        "file_path": "data/images\\lung\\Lung MRI (929).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (93).png",
+        "file_path": "data/images\\lung\\Lung MRI (93).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (930).png",
+        "file_path": "data/images\\lung\\Lung MRI (930).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (931).png",
+        "file_path": "data/images\\lung\\Lung MRI (931).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (932).png",
+        "file_path": "data/images\\lung\\Lung MRI (932).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (933).png",
+        "file_path": "data/images\\lung\\Lung MRI (933).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (934).png",
+        "file_path": "data/images\\lung\\Lung MRI (934).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (935).png",
+        "file_path": "data/images\\lung\\Lung MRI (935).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (936).png",
+        "file_path": "data/images\\lung\\Lung MRI (936).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (937).png",
+        "file_path": "data/images\\lung\\Lung MRI (937).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (938).png",
+        "file_path": "data/images\\lung\\Lung MRI (938).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (939).png",
+        "file_path": "data/images\\lung\\Lung MRI (939).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (94).png",
+        "file_path": "data/images\\lung\\Lung MRI (94).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (940).png",
+        "file_path": "data/images\\lung\\Lung MRI (940).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (941).png",
+        "file_path": "data/images\\lung\\Lung MRI (941).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (942).png",
+        "file_path": "data/images\\lung\\Lung MRI (942).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (943).png",
+        "file_path": "data/images\\lung\\Lung MRI (943).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (944).png",
+        "file_path": "data/images\\lung\\Lung MRI (944).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (945).png",
+        "file_path": "data/images\\lung\\Lung MRI (945).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (946).png",
+        "file_path": "data/images\\lung\\Lung MRI (946).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (947).png",
+        "file_path": "data/images\\lung\\Lung MRI (947).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (948).png",
+        "file_path": "data/images\\lung\\Lung MRI (948).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (949).png",
+        "file_path": "data/images\\lung\\Lung MRI (949).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (95).png",
+        "file_path": "data/images\\lung\\Lung MRI (95).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (950).png",
+        "file_path": "data/images\\lung\\Lung MRI (950).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (951).png",
+        "file_path": "data/images\\lung\\Lung MRI (951).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (952).png",
+        "file_path": "data/images\\lung\\Lung MRI (952).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (953).png",
+        "file_path": "data/images\\lung\\Lung MRI (953).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (954).png",
+        "file_path": "data/images\\lung\\Lung MRI (954).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (955).png",
+        "file_path": "data/images\\lung\\Lung MRI (955).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (956).png",
+        "file_path": "data/images\\lung\\Lung MRI (956).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (957).png",
+        "file_path": "data/images\\lung\\Lung MRI (957).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (958).png",
+        "file_path": "data/images\\lung\\Lung MRI (958).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (959).png",
+        "file_path": "data/images\\lung\\Lung MRI (959).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (96).png",
+        "file_path": "data/images\\lung\\Lung MRI (96).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (960).png",
+        "file_path": "data/images\\lung\\Lung MRI (960).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (961).png",
+        "file_path": "data/images\\lung\\Lung MRI (961).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (962).png",
+        "file_path": "data/images\\lung\\Lung MRI (962).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (963).png",
+        "file_path": "data/images\\lung\\Lung MRI (963).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (964).png",
+        "file_path": "data/images\\lung\\Lung MRI (964).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (965).png",
+        "file_path": "data/images\\lung\\Lung MRI (965).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (966).png",
+        "file_path": "data/images\\lung\\Lung MRI (966).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (967).png",
+        "file_path": "data/images\\lung\\Lung MRI (967).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (968).png",
+        "file_path": "data/images\\lung\\Lung MRI (968).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (969).png",
+        "file_path": "data/images\\lung\\Lung MRI (969).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (97).png",
+        "file_path": "data/images\\lung\\Lung MRI (97).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (970).png",
+        "file_path": "data/images\\lung\\Lung MRI (970).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (971).png",
+        "file_path": "data/images\\lung\\Lung MRI (971).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (972).png",
+        "file_path": "data/images\\lung\\Lung MRI (972).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (973).png",
+        "file_path": "data/images\\lung\\Lung MRI (973).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (974).png",
+        "file_path": "data/images\\lung\\Lung MRI (974).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (975).png",
+        "file_path": "data/images\\lung\\Lung MRI (975).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (976).png",
+        "file_path": "data/images\\lung\\Lung MRI (976).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (977).png",
+        "file_path": "data/images\\lung\\Lung MRI (977).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (978).png",
+        "file_path": "data/images\\lung\\Lung MRI (978).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (979).png",
+        "file_path": "data/images\\lung\\Lung MRI (979).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (98).png",
+        "file_path": "data/images\\lung\\Lung MRI (98).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (980).png",
+        "file_path": "data/images\\lung\\Lung MRI (980).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (981).png",
+        "file_path": "data/images\\lung\\Lung MRI (981).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (982).png",
+        "file_path": "data/images\\lung\\Lung MRI (982).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (983).png",
+        "file_path": "data/images\\lung\\Lung MRI (983).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (984).png",
+        "file_path": "data/images\\lung\\Lung MRI (984).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (985).png",
+        "file_path": "data/images\\lung\\Lung MRI (985).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (986).png",
+        "file_path": "data/images\\lung\\Lung MRI (986).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (987).png",
+        "file_path": "data/images\\lung\\Lung MRI (987).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (988).png",
+        "file_path": "data/images\\lung\\Lung MRI (988).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (989).png",
+        "file_path": "data/images\\lung\\Lung MRI (989).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (99).png",
+        "file_path": "data/images\\lung\\Lung MRI (99).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (990).png",
+        "file_path": "data/images\\lung\\Lung MRI (990).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (991).png",
+        "file_path": "data/images\\lung\\Lung MRI (991).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (992).png",
+        "file_path": "data/images\\lung\\Lung MRI (992).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (993).png",
+        "file_path": "data/images\\lung\\Lung MRI (993).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (994).png",
+        "file_path": "data/images\\lung\\Lung MRI (994).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (995).png",
+        "file_path": "data/images\\lung\\Lung MRI (995).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (996).png",
+        "file_path": "data/images\\lung\\Lung MRI (996).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (997).png",
+        "file_path": "data/images\\lung\\Lung MRI (997).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (998).png",
+        "file_path": "data/images\\lung\\Lung MRI (998).png"
+    },
+    {
+        "cancer_type": "lung",
+        "image_name": "Lung MRI (999).png",
+        "file_path": "data/images\\lung\\Lung MRI (999).png"
+    }
+]
