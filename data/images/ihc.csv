@@ -1,0 +1,127 @@
+image_id,image_path,sex,cancer,gene_symbol,ihc_name,tissue_state,source,modality
+img_001,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\normal\164_002.jpg,f,lung,NA,NA,normal,HPA,ihc
+img_002,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\normal\376_003.jpg,m,lung,NA,NA,normal,HPA,ihc
+img_003,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\normal\376_004.jpg,m,lung,NA,NA,normal,HPA,ihc
+img_004,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\normal\406_002.jpg,m,lung,NA,NA,normal,HPA,ihc
+img_005,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\normal\f1.png,f,lung,NA,NA,normal,HPA,ihc
+img_006,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\normal\f2.png,f,lung,NA,NA,normal,HPA,ihc
+img_007,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\normal\h1.png,m,lung,NA,NA,normal,HPA,ihc
+img_008,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\normal\h2.png,m,lung,NA,NA,normal,HPA,ihc
+img_009,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\f1.png,f,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_010,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\f3.png,f,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_011,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\f2.png,f,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_012,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\f4.png,f,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_013,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\h1.png,m,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_014,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\h2.png,m,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_015,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\h3.png,m,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_016,C:\Users\marie\Desktop\dataset_biocup\lung\NKX2-1\tumor\h4.png,m,lung,NKX2-1,TTF-1,tumor,HPA,ihc
+img_017,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\f1.png,f,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_018,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\f2.png,f,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_019,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\f3.png,f,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_020,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\f4.png,f,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_021,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\h1.png,m,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_022,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\h2.png,m,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_023,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\h3.png,m,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_024,C:\Users\marie\Desktop\dataset_biocup\lung\NAPSA\tumor\h4.png,m,lung,NAPSA,Napsin A,tumor,HPA,ihc
+img_025,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\h1.png,m,lung,TP63,p63,tumor,HPA,ihc
+img_026,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\h2.png,m,lung,TP63,p63,tumor,HPA,ihc
+img_027,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\h3.png,m,lung,TP63,p63,tumor,HPA,ihc
+img_028,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\h4.png,m,lung,TP63,p63,tumor,HPA,ihc
+img_029,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\f1.png,f,lung,TP63,p63,tumor,HPA,ihc
+img_030,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\f2.png,f,lung,TP63,p63,tumor,HPA,ihc
+img_031,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\f3.png,f,lung,TP63,p63,tumor,HPA,ihc
+img_032,C:\Users\marie\Desktop\dataset_biocup\lung\TP63\tumor\f4.png,f,lung,TP63,p63,tumor,HPA,ihc
+img_033,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\normal\f1.png,f,ovary,NA,NA,normal,HPA,ihc
+img_034,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\normal\f2.png,f,ovary,NA,NA,normal,HPA,ihc
+img_035,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\normal\f3.png,f,ovary,NA,NA,normal,HPA,ihc
+img_036,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\normal\f4.png,f,ovary,NA,NA,normal,HPA,ihc
+img_037,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\normal\f1.png,f,ovary,NA,NA,normal,HPA,ihc
+img_038,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\normal\f2.png,f,ovary,NA,NA,normal,HPA,ihc
+img_039,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\normal\f3.png,f,ovary,NA,NA,normal,HPA,ihc
+img_040,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\normal\f4.png,f,ovary,NA,NA,normal,HPA,ihc
+img_041,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f1.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_042,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f2.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_043,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f3.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_044,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f4.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_045,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f5.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_046,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f6.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_047,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f7.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_048,C:\Users\marie\Desktop\dataset_biocup\ovary\PAX8\tumor\f8.png,f,ovary,PAX8,PAX8,tumor,HPA,ihc
+img_049,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f1.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_050,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f2.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_051,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f3.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_052,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f4.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_053,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f5.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_054,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f6.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_055,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f7.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_056,C:\Users\marie\Desktop\dataset_biocup\ovary\TP53\tumor\f8.png,f,ovary,TP53,p53,tumor,HPA,ihc
+img_057,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f1.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_058,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f2.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_059,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f3.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_060,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f4.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_061,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f5.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_062,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f6.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_063,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f7.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_064,C:\Users\marie\Desktop\dataset_biocup\ovary\WT1\f8.png,f,ovary,WT1,WT1,tumor,HPA,ihc
+img_065,C:\Users\marie\Desktop\dataset_biocup\liver\normal\f1.png,f,liver,NA,NA,normal,HPA,ihc
+img_066,C:\Users\marie\Desktop\dataset_biocup\liver\normal\f2.png,f,liver,NA,NA,normal,HPA,ihc
+img_067,C:\Users\marie\Desktop\dataset_biocup\liver\normal\f3.png,f,liver,NA,NA,normal,HPA,ihc
+img_068,C:\Users\marie\Desktop\dataset_biocup\liver\normal\f4.png,f,liver,NA,NA,normal,HPA,ihc
+img_069,C:\Users\marie\Desktop\dataset_biocup\liver\normal\h1.png,m,liver,NA,NA,normal,HPA,ihc
+img_070,C:\Users\marie\Desktop\dataset_biocup\liver\normal\h2.png,m,liver,NA,NA,normal,HPA,ihc
+img_071,C:\Users\marie\Desktop\dataset_biocup\liver\normal\h3.png,m,liver,NA,NA,normal,HPA,ihc
+img_072,C:\Users\marie\Desktop\dataset_biocup\liver\normal\h4.png,m,liver,NA,NA,normal,HPA,ihc
+img_073,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\f1.png,f,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_074,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\f2.png,f,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_075,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\f3.png,f,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_076,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\f4.png,f,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_077,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\h1.png,m,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_078,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\h2.png,m,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_079,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\h3.png,m,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_080,C:\Users\marie\Desktop\dataset_biocup\liver\ARG1\h4.png,m,liver,ARG1,Arginase 1,tumor,HPA,ihc
+img_081,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\f1.png,f,liver,AFP,AFP,tumor,HPA,ihc
+img_082,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\f1.png,f,liver,AFP,AFP,tumor,HPA,ihc
+img_083,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\f1.png,f,liver,AFP,AFP,tumor,HPA,ihc
+img_084,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\f1.png,f,liver,AFP,AFP,tumor,HPA,ihc
+img_085,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\h1.png,m,liver,AFP,AFP,tumor,HPA,ihc
+img_086,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\h2.png,m,liver,AFP,AFP,tumor,HPA,ihc
+img_087,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\h3.png,m,liver,AFP,AFP,tumor,HPA,ihc
+img_088,C:\Users\marie\Desktop\dataset_biocup\liver\AFP\h4.png,m,liver,AFP,AFP,tumor,HPA,ihc
+img_089,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\f1.png,f,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_090,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\f2.png,f,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_091,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\f3.png,f,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_092,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\f4.png,f,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_093,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\h1.png,m,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_094,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\h2.png,m,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_095,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\h3.png,m,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_096,C:\Users\marie\Desktop\dataset_biocup\liver\KRT7\h4.png,m,liver,KRT7,Keratin 7,tumor,HPA,ihc
+img_097,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f1.png,f,breast,NA,NA,normal,HPA,ihc
+img_098,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f2.png,f,breast,NA,NA,normal,HPA,ihc
+img_099,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f3.png,f,breast,NA,NA,normal,HPA,ihc
+img_100,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f4.png,f,breast,NA,NA,normal,HPA,ihc
+img_101,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f5.png,f,breast,NA,NA,normal,HPA,ihc
+img_102,C:\Users\marie\Desktop\dataset_biocup\Breast\normal\f6.png,f,breast,NA,NA,normal,HPA,ihc
+img_103,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f1.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_104,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f2.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_105,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f3.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_106,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f4.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_107,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f5.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_108,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f6.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_109,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f7.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_110,C:\Users\marie\Desktop\dataset_biocup\Breast\ESR-1\f8.png,f,breast,ESR1,ER,tumor,HPA,ihc
+img_111,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f1.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_112,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f2.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_113,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f3.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_114,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f4.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_115,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f5.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_116,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f6.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_117,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f7.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_118,C:\Users\marie\Desktop\dataset_biocup\Breast\PGR\f8.png,f,breast,PGR,PR,tumor,HPA,ihc
+img_119,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f1.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_120,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f2.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_121,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f3.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_122,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f4.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_123,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f5.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_124,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f6.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_125,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f7.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
+img_126,C:\Users\marie\Desktop\dataset_biocup\Breast\PIP\f8.png,f,breast,PIP,GCDFP-15,tumor,HPA,ihc
