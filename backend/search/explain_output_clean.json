@@ -1,0 +1,226 @@
+{
+  "collection_name": "biocup_chunks",
+  "points_count": null,
+  "top_sites": [
+    "lung",
+    "liver",
+    "colon"
+  ],
+  "sorted_sites": [
+    [
+      "lung",
+      31.376997389405954
+    ],
+    [
+      "liver",
+      18.594847627221103
+    ],
+    [
+      "colon",
+      13.206787793688815
+    ],
+    [
+      "prostate",
+      10.846065970496653
+    ],
+    [
+      "ovary",
+      10.151469028049927
+    ],
+    [
+      "pancreas",
+      9.47217883306289
+    ],
+    [
+      "breast",
+      6.351653358074662
+    ]
+  ],
+  "llm_explanation": "A) The top predicted primary site, lung, is most supported due to its highest cumulative score of 0.0898, derived from multiple relevant sections, particularly IHC. This score is significantly higher than the next sites, indicating stronger evidence for lung involvement (BIOCUP_00035, IHC).\n\nB) To separate lung (top-1) from liver (top-2):\n- Specific IHC markers or phrases indicating lung pathology.\n- Higher scores from lung-specific sections compared to liver-specific sections.\n\nC) To separate lung (top-1) from colon (top-3):\n- Distinct IHC markers or phrases that are unique to lung conditions.\n- Evidence from lung-focused diagnostic sections that surpass colon-related findings.\n\nD) Generic phrases to treat as weak evidence:\n- \"IHC\" without specific context or markers.\n- \"Diagnosis\" without specifying the organ or condition.\n\nE) There is uncertainty regarding the specificity of the markers and phrases used in the context, which may affect the interpretation of the evidence. Further details on the specific markers would enhance clarity.",
+  "evidence": {
+    "colon": [
+      {
+        "case_id": "BIOCUP_00067",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00119",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00065",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00087",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00108",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00113",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      }
+    ],
+    "lung": [
+      {
+        "case_id": "BIOCUP_00035",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00029",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00001",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00038",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00027",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00021",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      }
+    ],
+    "pancreas": [
+      {
+        "case_id": "BIOCUP_00324",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00345",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00340",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00336",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00353",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      }
+    ],
+    "liver": [
+      {
+        "case_id": "BIOCUP_00390",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00367",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00418",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00385",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00409",
+        "section": "LYMPH_NODES",
+        "snippet": ""
+      }
+    ],
+    "ovary": [
+      {
+        "case_id": "BIOCUP_00244",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00242",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00282",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00264",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      }
+    ],
+    "prostate": [
+      {
+        "case_id": "BIOCUP_00217",
+        "section": "IHC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00183",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00205",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00211",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00229",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00194",
+        "section": "SYNOPTIC",
+        "snippet": ""
+      }
+    ],
+    "breast": [
+      {
+        "case_id": "BIOCUP_00136",
+        "section": "DIAGNOSIS",
+        "snippet": ""
+      },
+      {
+        "case_id": "BIOCUP_00175",
+        "section": "IHC",
+        "snippet": ""
+      }
+    ]
+  }
+}
