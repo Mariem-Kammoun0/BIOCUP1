@@ -59,7 +59,7 @@ if missing:
 meta = df[META_COLS].copy()
 texts = df[TEXT_COL].tolist()
 
-print(f"✅ Loaded chunks: {len(df)}")
+print(f" Loaded chunks: {len(df)}")
 
 
 # =========================
@@ -83,6 +83,6 @@ dense_vecs = dense_vecs.astype("float32")
 np.save(OUT_DIR / "dense.npy", dense_vecs)
 meta.to_parquet(OUT_DIR / "meta.parquet", index=False)
 
-print("✅ Dense saved:", OUT_DIR / "dense.npy")
-print("✅ Meta saved:", OUT_DIR / "meta.parquet")
+print(" Dense saved:", OUT_DIR / "dense.npy")
+print(" Meta saved:", OUT_DIR / "meta.parquet")
 print("Dense shape:", dense_vecs.shape)

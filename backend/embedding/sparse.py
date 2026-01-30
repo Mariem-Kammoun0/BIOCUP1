@@ -35,7 +35,7 @@ df = df[df[TEXT_COL].str.strip().ne("")].reset_index(drop=True)
 
 texts = df[TEXT_COL].tolist()
 
-print(f"✅ Loaded chunks: {len(df)}")
+print(f" Loaded chunks: {len(df)}")
 
 
 # =========================
@@ -104,5 +104,5 @@ np.savez_compressed(
     values=np.array(values, dtype=object),
 )
 
-print("✅ Sparse saved:", OUT_DIR / "sparse_splade.npz")
+print(" Sparse saved:", OUT_DIR / "sparse_splade.npz")
 print("Chunks:", len(indices))

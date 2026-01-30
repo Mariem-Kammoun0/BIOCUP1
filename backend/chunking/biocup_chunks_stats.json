@@ -1,0 +1,16 @@
+{
+  "cases_total": 1,
+  "cases_chunked": 1,
+  "sections_total": 1,
+  "chunks_total_raw": 1,
+  "chunks_total_after_postsplit": 3,
+  "chunks_dropped_quality": 0,
+  "chunks_dropped_duplicate_exact": 0,
+  "chunks_dropped_duplicate_near": 0,
+  "chunks_by_section": {
+    "LYMPH_NODES": 1,
+    "IHC": 1,
+    "SYNOPTIC": 1
+  },
+  "errors_semantic_chunking": 0
+}

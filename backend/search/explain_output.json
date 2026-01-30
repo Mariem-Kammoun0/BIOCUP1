@@ -1,0 +1,302 @@
+{
+  "sorted_sites": [
+    [
+      "lung",
+      31.376997389405954
+    ],
+    [
+      "liver",
+      18.594847627221103
+    ],
+    [
+      "colon",
+      13.206787793688815
+    ],
+    [
+      "prostate",
+      10.846065970496653
+    ],
+    [
+      "ovary",
+      10.151469028049927
+    ],
+    [
+      "pancreas",
+      9.47217883306289
+    ],
+    [
+      "breast",
+      6.351653358074662
+    ]
+  ],
+  "top_sites": [
+    "lung",
+    "liver",
+    "colon"
+  ],
+  "percentages": {
+    "colon": 13.206787793688815,
+    "lung": 31.376997389405954,
+    "pancreas": 9.47217883306289,
+    "liver": 18.594847627221103,
+    "ovary": 10.151469028049927,
+    "prostate": 10.846065970496653,
+    "breast": 6.351653358074662
+  },
+  "evidence": {
+    "colon": [
+      {
+        "case_id": "BIOCUP_00067",
+        "score": 0.08627106227106227,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00067|IHC|4|1|2a7342b52b"
+      },
+      {
+        "case_id": "BIOCUP_00119",
+        "score": 0.04488101533580117,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00119|DIAGNOSIS|0|0|9f3d8c4577"
+      },
+      {
+        "case_id": "BIOCUP_00065",
+        "score": 0.0391547619047619,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00065|DIAGNOSIS|0|0|bfa58b9966"
+      },
+      {
+        "case_id": "BIOCUP_00087",
+        "score": 0.03718264014466545,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00087|SYNOPTIC|0|0|9f9a7bd880"
+      },
+      {
+        "case_id": "BIOCUP_00108",
+        "score": 0.03081927418376016,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00108|SYNOPTIC|0|0|3d2827d917"
+      },
+      {
+        "case_id": "BIOCUP_00113",
+        "score": 0.026953124999999998,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00113|DIAGNOSIS|5|2|9a9068359b"
+      }
+    ],
+    "lung": [
+      {
+        "case_id": "BIOCUP_00035",
+        "score": 0.08976203067160234,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00035|IHC|23|0|0dc52feb0c"
+      },
+      {
+        "case_id": "BIOCUP_00029",
+        "score": 0.08458220007451564,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00029|SYNOPTIC|0|0|105ebfa89f"
+      },
+      {
+        "case_id": "BIOCUP_00001",
+        "score": 0.0825535714285714,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00001|IHC|9|3|0f97a45048"
+      },
+      {
+        "case_id": "BIOCUP_00038",
+        "score": 0.08069142125480154,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00038|IHC|4|2|f7a2bd8d27"
+      },
+      {
+        "case_id": "BIOCUP_00027",
+        "score": 0.0772367906066536,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00027|IHC|1|1|922e2a4144"
+      },
+      {
+        "case_id": "BIOCUP_00021",
+        "score": 0.037069597069597074,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00021|SYNOPTIC|13|0|9c745d94ae"
+      }
+    ],
+    "pancreas": [
+      {
+        "case_id": "BIOCUP_00324",
+        "score": 0.08109005748350011,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00324|IHC|4|0|9b2ae9e257"
+      },
+      {
+        "case_id": "BIOCUP_00345",
+        "score": 0.04182778415614236,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00345|DIAGNOSIS|0|1|3d52dca7f8"
+      },
+      {
+        "case_id": "BIOCUP_00340",
+        "score": 0.02953983516483516,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00340|SYNOPTIC|9|0|34fb6bcff3"
+      },
+      {
+        "case_id": "BIOCUP_00336",
+        "score": 0.029004926108374383,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00336|SYNOPTIC|1|0|ddfb3a84d2"
+      },
+      {
+        "case_id": "BIOCUP_00353",
+        "score": 0.02782258064516129,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00353|SYNOPTIC|8|0|2379d1805a"
+      }
+    ],
+    "liver": [
+      {
+        "case_id": "BIOCUP_00390",
+        "score": 0.1466172620504037,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00390|DIAGNOSIS|42|0|e6f2d396bb"
+      },
+      {
+        "case_id": "BIOCUP_00367",
+        "score": 0.08431902985074627,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00367|IHC|2|0|9aa5a5dd16"
+      },
+      {
+        "case_id": "BIOCUP_00418",
+        "score": 0.07552736498731423,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00418|IHC|14|0|f9e11a9b82"
+      },
+      {
+        "case_id": "BIOCUP_00385",
+        "score": 0.06902143522833178,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00385|IHC|12|1|66216928aa"
+      },
+      {
+        "case_id": "BIOCUP_00409",
+        "score": 0.03536294691224269,
+        "section": "LYMPH_NODES",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00409|LYMPH_NODES|0|1|71999ef163"
+      }
+    ],
+    "ovary": [
+      {
+        "case_id": "BIOCUP_00244",
+        "score": 0.08627106227106227,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00244|IHC|7|1|375cd902a9"
+      },
+      {
+        "case_id": "BIOCUP_00242",
+        "score": 0.07034415584415585,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00242|IHC|3|1|43a3d5f0ca"
+      },
+      {
+        "case_id": "BIOCUP_00282",
+        "score": 0.0397203947368421,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00282|DIAGNOSIS|2|1|1297ea893d"
+      },
+      {
+        "case_id": "BIOCUP_00264",
+        "score": 0.02795830055074744,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00264|SYNOPTIC|1|0|d41225715b"
+      }
+    ],
+    "prostate": [
+      {
+        "case_id": "BIOCUP_00217",
+        "score": 0.08117647058823528,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00217|IHC|2|0|9b6255c03b"
+      },
+      {
+        "case_id": "BIOCUP_00183",
+        "score": 0.03977065890061885,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00183|SYNOPTIC|5|0|13884bec87"
+      },
+      {
+        "case_id": "BIOCUP_00205",
+        "score": 0.03853558599012123,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00205|SYNOPTIC|5|0|eadaadc720"
+      },
+      {
+        "case_id": "BIOCUP_00211",
+        "score": 0.027380952380952377,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00211|SYNOPTIC|1|5|ef1be80aad"
+      },
+      {
+        "case_id": "BIOCUP_00229",
+        "score": 0.02645581149371254,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00229|SYNOPTIC|0|1|52958b80c2"
+      },
+      {
+        "case_id": "BIOCUP_00194",
+        "score": 0.026321362265026686,
+        "section": "SYNOPTIC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00194|SYNOPTIC|0|2|ccd66273d4"
+      }
+    ],
+    "breast": [
+      {
+        "case_id": "BIOCUP_00136",
+        "score": 0.07170040485829958,
+        "section": "DIAGNOSIS",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00136|DIAGNOSIS|4|1|123d9e8d4a"
+      },
+      {
+        "case_id": "BIOCUP_00175",
+        "score": 0.06863762743280814,
+        "section": "IHC",
+        "snippet": "",
+        "chunk_id_raw": "BIOCUP_00175|IHC|18|0|ca0cc8cbe9"
+      }
+    ]
+  },
+  "llm_explanation": "1) Top-site reasoning: The lung is the top predicted primary site due to the highest cumulative score from multiple relevant sections, particularly from immunohistochemistry (IHC) analyses.\n\n2) Evidence that supports top-1 (lung) vs top-2 (liver):\n   - Lung has a highest score of 0.0898 (case_id=BIOCUP_00035, section=IHC) compared to liver's highest score of 0.1466 (case_id=BIOCUP_00390, section=DIAGNOSIS), but the lung's scores are more consistent across multiple IHC entries.\n   - The lung has five entries with scores above 0.07, indicating a broader support base, while liver has fewer entries with lower scores.\n\n3) Evidence that supports top-1 (lung) vs top-3 (colon):\n   - Lung's highest score (0.0898) is greater than colon's highest score (0.0863, case_id=BIOCUP_00067, section=IHC).\n   - The lung has more entries with higher scores (five entries above 0.07) compared to colon, which has only three entries above 0.04.\n\n4) Generic/weak evidence to ignore:\n   - Scores from the SYNOPTIC section for both lung and colon are lower and less specific, with the highest being 0.0371 for lung and 0.0372 for colon, which do not provide strong discriminative power.\n\n5) Conclusion with uncertainty note: The lung is the most supported primary site based on higher and more consistent scores from IHC analyses. However, the liver's highest score in the DIAGNOSIS section indicates potential relevance, and further context on the specific markers used in the IHC analyses would be beneficial for a more definitive conclusion.",
+  "collection_name": "biocup_chunks"
+}

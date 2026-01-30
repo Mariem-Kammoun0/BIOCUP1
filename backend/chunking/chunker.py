@@ -22,11 +22,16 @@ from chonkie import SemanticChunker
 from chonkie.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from text_cleaner import clean_medical_report 
 
-# =========================
+
+# en haut du fichier, juste après imports
+DEFAULT_INPUT_CSV = "../data/input/cases.csv"
+DEFAULT_OUTPUT_CSV = "../../data/input/chunks/input_chunks.csv"
+
+INPUT_CSV = os.getenv("BIOCUP_INPUT_CSV", DEFAULT_INPUT_CSV)
+OUTPUT_CSV = os.getenv("BIOCUP_OUTPUT_CHUNKS_CSV", DEFAULT_OUTPUT_CSV)
 # CONFIG
 # =========================
-INPUT_CSV = "../data/raw/biocup_subset.csv"
-OUTPUT_CSV = "../data/processed/biocup_chunks.csv"
+
 OUTPUT_STATS_JSON = "biocup_chunks_stats.json"
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -768,7 +773,7 @@ def merge_continuations(chunks: List[str], max_chars: int, max_steps: int = 8) -
 # MAIN PIPELINE
 # =========================
 def run_pipeline() -> None:
-    print("📥 Loading CSV...")
+    print("Loading CSV...")
     df = pd.read_csv(INPUT_CSV)
     
     #adding data cleaning
@@ -780,9 +785,9 @@ def run_pipeline() -> None:
         raise ValueError(f"Missing required columns: {missing}. Found: {list(df.columns)}")
 
     df = df.dropna(subset=REQUIRED_COLS).copy()
-    print(f"✅ Loaded {len(df)} rows")
+    print(f"Loaded {len(df)} rows")
 
-    print("🧠 Initializing semantic chunker...")
+    print("Initializing semantic chunker...")
     chunker = init_chunker()
 
     all_rows: List[Dict[str, Any]] = []
@@ -800,7 +805,7 @@ def run_pipeline() -> None:
         "errors_semantic_chunking": 0,
     }
 
-    print("🔪 Chunking reports...")
+    print("Chunking reports...")
     for _, row in df.iterrows():
         report = row["report_text"]
         sections = split_by_sections(report)
@@ -950,14 +955,14 @@ def run_pipeline() -> None:
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
 
-    print(f"💾 Saving {len(chunks_df)} chunks -> {OUTPUT_CSV}")
+    print(f"Saving {len(chunks_df)} chunks -> {OUTPUT_CSV}")
     chunks_df.to_csv(OUTPUT_CSV, index=False)
 
-    print(f"📊 Saving stats -> {OUTPUT_STATS_JSON}")
+    print(f"Saving stats -> {OUTPUT_STATS_JSON}")
     with open(OUTPUT_STATS_JSON, "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
 
-    print("✅ Done.")
+    print(" Done.")
     print(f"   - cases_chunked: {stats['cases_chunked']}/{stats['cases_total']}")
     print(f"   - chunks_raw: {stats['chunks_total_raw']}")
     print(f"   - chunks_saved: {len(chunks_df)}")

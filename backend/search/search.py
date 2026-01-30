@@ -27,6 +27,9 @@ from qdrant_client import QdrantClient
 from qdrant_client.http import models as qm
 import sys
 from pathlib import Path
+import sys
+sys.stdout.reconfigure(encoding="utf-8")
+
 
 ROOT = Path(__file__).resolve().parents[2]  # BIOCUP1
 sys.path.append(str(ROOT))
@@ -451,13 +454,13 @@ if __name__ == "__main__":
     pct, dbg = predict_primary_site()
 
     print("\n==============================")
-    print("✅ Predicted primary_site (%)")
+    print(" Predicted primary_site (%)")
     print("==============================")
     for site, p in dbg["sorted_sites"][:10]:
         print(f"{site:15s} {p:6.2f}%")
 
     print("\n==============================")
-    print("🔎 Evidence (top sites)")
+    print("Evidence (top sites)")
     print("==============================")
     for site, p in dbg["sorted_sites"][:3]:
         print(f"\n--- {site} ({p:.2f}%) ---")

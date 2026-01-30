@@ -1,41 +1,28 @@
 # backend/search/explain.py
-# ============================================================
-# BioCUP — LLM Explanation for predicted primary_site
-# - Runs predict_primary_site() from search_final.py (or search.py)
-# - Builds a compact context from evidence snippets
-# - Calls OpenAI to explain why top-1 beats top-2/top-3
-# ============================================================
-
 import os
 import sys
+import json
 from pathlib import Path
 from dotenv import load_dotenv
-
 from qdrant_client import QdrantClient
 
-
 # -------------------------
-# Make imports work (fix ModuleNotFoundError: backend)
+# Path + env
 # -------------------------
 ROOT = Path(__file__).resolve().parents[2]  # BIOCUP1
 sys.path.append(str(ROOT))
 
-# Load .env from project root (more reliable than load_dotenv() alone)
 load_dotenv(dotenv_path=ROOT / ".env", override=True)
 
-COLLECTION = "biocup_hybrid_splade_v1"
+COLLECTION = os.getenv("COLLECTION_NAME", "biocup_hybrid_splade_v1")
 
-client = QdrantClient(
+qdrant = QdrantClient(
     url=os.environ["QDRANT_URL"],
     api_key=os.environ.get("QDRANT_API_KEY")
 )
 
-# ✅ Import from your FINAL search file
-# If your file is named search_final.py:
-from search import predict_primary_site
- # <- use this
-# If you still use search.py, replace the line above with:
-# from backend.search.search import predict_primary_site
+# If your file is backend/search/search_final.py:
+from backend.search.search import predict_primary_site
 
 
 def build_context_from_evidence(
@@ -44,9 +31,6 @@ def build_context_from_evidence(
     max_items_per_site: int = 6,
     max_chars: int = 6000
 ) -> str:
-    """
-    Build LLM context from Qdrant evidence snippets.
-    """
     blocks = []
     total = 0
 
@@ -58,8 +42,10 @@ def build_context_from_evidence(
             score = e.get("score")
             snippet = e.get("snippet") or ""
 
+            score_val = float(score) if score is not None else 0.0
+
             block = (
-                f"(case_id={case_id}, section={sec}, score={float(score):.4f})\n"
+                f"(case_id={case_id}, section={sec}, score={score_val:.4f})\n"
                 f"{snippet}\n"
             )
             blocks.append(block)
@@ -73,14 +59,11 @@ def build_context_from_evidence(
 
 
 def explain_with_llm(question: str, context: str) -> str:
-    """
-    Calls OpenAI. Uses ONLY provided context.
-    """
     from openai import OpenAI
 
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
-        raise RuntimeError("Missing OPENAI_API_KEY in .env (project root)")
+        raise RuntimeError("Missing OPENAI_API_KEY in BIOCUP1/.env")
 
     client_oa = OpenAI(api_key=api_key)
 
@@ -106,7 +89,7 @@ def explain_with_llm(question: str, context: str) -> str:
     )
 
     resp = client_oa.chat.completions.create(
-        model="gpt-4o-mini",
+        model=os.getenv("BIOCUP_OPENAI_MODEL", "gpt-4o-mini"),
         temperature=0.0,
         messages=[
             {"role": "system", "content": system},
@@ -116,24 +99,44 @@ def explain_with_llm(question: str, context: str) -> str:
     return resp.choices[0].message.content
 
 
-if __name__ == "__main__":
-    # Optional sanity check
-    info = client.get_collection(COLLECTION)
-    print(f"Collection status: {info.status} points: {info.points_count}")
+def run_explain() -> dict:
+    if os.getenv("BIOCUP_DEBUG") == "1":
+        info = qdrant.get_collection(COLLECTION)
+        print(f"Collection status: {info.status} points: {info.points_count}")
 
     pct, dbg = predict_primary_site()
 
     top_sites = [s for s, _ in dbg["sorted_sites"][:3]]
-    context = build_context_from_evidence(dbg["evidence"], top_sites=top_sites, max_items_per_site=6)
+    context = build_context_from_evidence(dbg.get("evidence", {}), top_sites=top_sites)
 
     question = (
         "Explain why the top predicted primary site is most supported, compared to the next two sites. "
         "Highlight discriminative markers/phrases if present and flag generic phrases that are not organ-specific."
     )
 
-    answer = explain_with_llm(question, context)
+    # Option: do not crash pipeline if OpenAI is missing
+    try:
+        answer = explain_with_llm(question, context)
+    except Exception as e:
+        answer = f"LLM explanation unavailable: {e}"
 
-    print("\n==============================")
-    print("🧠 LLM Explanation (evidence-based)")
-    print("==============================\n")
-    print(answer)
+    out = {
+        "sorted_sites": dbg.get("sorted_sites", [])[:10],
+        "top_sites": top_sites,
+        "percentages": pct,
+        "evidence": dbg.get("evidence", {}),
+        "llm_explanation": answer,
+        "collection_name": COLLECTION,
+    }
+
+    # ✅ FIXED OUTPUT PATH (no env vars)
+    out_path = ROOT / "backend" / "search" / "explain_output.json"
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    print(f" explain_output saved to: {out_path}")
+    return out
+
+
+if __name__ == "__main__":
+    result = run_explain()
+    print(json.dumps(result, ensure_ascii=False, indent=2))
