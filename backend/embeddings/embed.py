@@ -48,7 +48,6 @@ def build_payload(row):
         "modality": row["modality"],           # IHC
     }
 
-  
     gene = str(row.get("gene_symbol", "")).strip()
     ihc  = str(row.get("ihc_name", "")).strip()
 
