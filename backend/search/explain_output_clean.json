@@ -36,7 +36,7 @@
       6.351653358074662
     ]
   ],
-  "llm_explanation": "A) The top predicted primary site, lung, is most supported due to its highest cumulative score of 0.0898, derived from multiple relevant sections, particularly IHC. This score is significantly higher than the next sites, indicating stronger evidence for lung involvement (BIOCUP_00035, IHC).\n\nB) To separate lung (top-1) from liver (top-2):\n- Specific IHC markers or phrases indicating lung pathology.\n- Higher scores from lung-specific sections compared to liver-specific sections.\n\nC) To separate lung (top-1) from colon (top-3):\n- Distinct IHC markers or phrases that are unique to lung conditions.\n- Evidence from lung-focused diagnostic sections that surpass colon-related findings.\n\nD) Generic phrases to treat as weak evidence:\n- \"IHC\" without specific context or markers.\n- \"Diagnosis\" without specifying the organ or condition.\n\nE) There is uncertainty regarding the specificity of the markers and phrases used in the context, which may affect the interpretation of the evidence. Further details on the specific markers would enhance clarity.",
+  "llm_explanation": "LLM explanation unavailable: No module named 'openai'",
   "evidence": {
     "colon": [
       {

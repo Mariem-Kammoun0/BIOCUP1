@@ -6,12 +6,10 @@ export const register = async (data) => {
   return res.data;
 };
 
-// POST /auth/login
-export const login = async (data) => {
-  const res = await api.post("/auth/login", data);
+// POST /auth/login  ✅ OAuth2-compliant
 
-  // Sauvegarder le token
+export const login = async ({ email, password }) => {
+  const res = await api.post("/auth/login", { email, password });
   localStorage.setItem("token", res.data.access_token);
-
   return res.data;
 };

@@ -177,6 +177,8 @@ async def save_images(
         with open(path, "wb") as f:
             f.write(content)
 
+
+        safe_path = str(path).replace("\\", "/")
         out.append({
             "image_id": image_id,
             "filename": img.filename,
@@ -186,7 +188,7 @@ async def save_images(
             "storage": "local",
             "relative_path": str(path).replace("\\", "/"),
             # optional: you can build a URL if you serve UPLOAD_ROOT as static
-            "url": f"/{str(path).replace('\\', '/')}",
+            "url":  f"/{safe_path}",
             "created_at": datetime.utcnow(),
         })
 

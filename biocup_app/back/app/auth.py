@@ -5,15 +5,17 @@ from fastapi import HTTPException, Depends
 from fastapi.security import OAuth2PasswordBearer
 from .config import settings
 
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+pwd_context = CryptContext(
+    schemes=["argon2"],
+    deprecated="auto",
+)
 oauth2 = OAuth2PasswordBearer(tokenUrl="/auth/login")
 
 def hash_password(p: str) -> str:
-    p = p[:72]   # bcrypt max
     return pwd_context.hash(p)
 
 def verify_password(p: str, hashed: str) -> bool:
-    p = p[:72]
     return pwd_context.verify(p, hashed)
 
 def create_access_token(sub: str) -> str:
